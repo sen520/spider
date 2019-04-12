@@ -31,7 +31,6 @@ if __name__ == '__main__':
 
     res = requests.get(url='http://www.kuwo.cn/bang/index')
     html = etree.HTML(res.text)
-
     song_name = html.xpath('//ul[@class="listMusic"]/li/div[@class="name"]/a/text()')
     urls = html.xpath('//ul[@class="listMusic"]/li/div[@class="name"]/a/@href')
     song_list = []
@@ -46,7 +45,6 @@ if __name__ == '__main__':
             continue
         comment = []
         for row in rows:
-            # print(row)
             user = unquote(row['u_name'], encoding="utf-8")
             msg = row['msg']
             date = row['time']
