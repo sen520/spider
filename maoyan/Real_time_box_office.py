@@ -10,3 +10,4 @@ for i in movie_list:
     name = i['movieName'] # 电影名
     num = i['boxInfo']  # 票房
     seat = i['avgSeatView'] # 上座率
+    print(name, num, seat)
