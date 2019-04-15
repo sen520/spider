@@ -6,10 +6,17 @@
 - [x] [猫眼](https://github.com/sen520/spider/tree/master/maoyan)
     - 字体解析，样例先获取一次字体解析
 
+- [ ] 验证码
+    - 滑动验证码
+    - 点击验证码
+    - 图片验证码
+    
 - [ ] 知乎
-
+    - 登录cookie
+    
 - [ ] 天眼查
-
+    - 滑动验证码登录
+    
 - [ ] bilibili弹幕
 
 - [ ] 京东商品晒图
