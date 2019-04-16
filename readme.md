@@ -6,17 +6,19 @@
 - [x] [猫眼](https://github.com/sen520/spider/tree/master/maoyan)
     - 字体解析，样例先获取一次字体解析
 
+- [x] [天眼查](https://github.com/sen520/spider/tree/master/tianyancha)
+    - 滑动验证码登录
+    
 - [ ] 验证码
-    - 滑动验证码
-    - 点击验证码
-    - 图片验证码
+
+    - [x] 滑动验证码
+    - [ ] 点击验证码
+    - [ ] 图片验证码
     
 - [ ] 知乎
     - 登录cookie
     
-- [ ] 天眼查
-    - 滑动验证码登录
-    - 通过js动态改变验证图片
+
     
 - [ ] bilibili弹幕
 
