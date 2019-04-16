@@ -35,3 +35,11 @@ def create_logger(name):
     stream_handler.setLevel(logging.WARNING)
     log.addHandler(stream_handler)
     return log
+
+if __name__ == '__main__':
+    log = create_logger('./error.log')
+    try:
+        1/0
+    except Exception as e:
+        log.error(e)
+        log.error(datetime.now())

@@ -1,12 +1,10 @@
 import time
-from tianyancha.set_log import create_logger
+from set_log import create_logger
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
-from urllib.parse import quote
 from lxml import etree
 import re
 from PIL import Image
