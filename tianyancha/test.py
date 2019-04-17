@@ -83,8 +83,8 @@ class T_Spider(object):
         # 返回图片对象
         return image
 
+    # 下载网络原图
     def parse_image(self, name, image_divs):
-
         url = re.search('url\("(.*)"\);', image_divs[0])[1]
         with open('test.webp', 'wb') as f:
             f.write(requests.get(url).content)
@@ -94,6 +94,7 @@ class T_Spider(object):
         first_line_img, second_line_img = self.Corp(image_obj, position)
         self.put_imgs_together(first_line_img, second_line_img, name)
 
+    # 创建日志
     def set_spider_log(self, error):
         log = create_logger('./error.log')
         log.error(error)
