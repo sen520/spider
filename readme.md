@@ -8,7 +8,10 @@
 
 - [x] [天眼查](https://github.com/sen520/spider/tree/master/tianyancha)
     - 滑动验证码登录
-    
+
+- [x] member
+    - 图片验证码
+
 - [ ] 验证码
 
     - [x] 滑动验证码
