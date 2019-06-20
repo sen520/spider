@@ -9,10 +9,10 @@
 - [x] [天眼查](https://github.com/sen520/spider/tree/master/tianyancha)
     - 滑动验证码登录
 
-- [x] member
+- [x] [member](https://github.com/sen520/spider/tree/master/member)
     - 图片验证码
 
-- [X] 豆瓣
+- [X] [豆瓣](https://github.com/sen520/spider/tree/master/douban)
     - 作者和相关信息需要单独发送请求
 
 - [ ] 验证码
