@@ -1,7 +1,6 @@
 import jieba
 import json
 from wordcloud import WordCloud
-from scipy.misc import imread
 from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
