@@ -15,11 +15,14 @@
 - [x] [豆瓣](https://github.com/sen520/spider/tree/master/douban)
     - 作者和相关信息需要单独发送请求
 
-- [x] 携程
+- [x] [京东商品晒图](https://github.com/sen520/spider/tree/master/jd)
+    - js动态加载，每次最多20条
+
+- [x] [携程](https://github.com/sen520/spider/tree/master/ctrip)
     - [x] 有访问次数限制，需要代理
     - [ ] PyExecJS
 
-- [x] 知乎
+- [x] [知乎](https://github.com/sen520/spider/tree/master/zhihu) 
     - js动态加载
     - 登录cookie
 
@@ -31,8 +34,6 @@
 
 - [ ] bilibili弹幕
 
-- [ ] 京东商品晒图
-
 - [ ] 抖音
 
 - [ ] 12306
@@ -41,8 +42,4 @@
 
 - [ ] sina
 
-
-
 - [ ] 去哪
-
-
