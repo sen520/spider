@@ -2,9 +2,8 @@ import requests
 from lxml import etree
 from openpyxl import Workbook
 import json
-import io
 import re
-
+from tools.data_to_json import data_to_json
 
 def get_page(url, name):
     id = re.search('\/(\d+)\/', url)[1]
@@ -70,12 +69,6 @@ def get_page(url, name):
         'comments': comment_list,
     }
     return movie_dict
-
-
-def data_to_json(data, name):
-    with io.open(name + '.json', 'w', encoding='utf-8') as fo:
-        fo.write(json.dumps(data, ensure_ascii=False, indent=2, separators=(',', ': ')))
-
 
 def spider(url):
     res = requests.get(url)
