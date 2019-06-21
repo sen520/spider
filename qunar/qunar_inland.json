@@ -1,0 +1,2158 @@
+[
+  {
+    "广州": [
+      {
+        "date": "2019-06-29",
+        "price": "255",
+        "discount": "1.5",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "170",
+        "discount": "1.8",
+        "arrCity": "揭阳"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "219",
+        "discount": "1.8",
+        "arrCity": "宁波"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "400",
+        "discount": "2.1",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "259",
+        "discount": "2.1",
+        "arrCity": "长沙"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "520",
+        "discount": "2.2",
+        "arrCity": "青岛"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "200",
+        "discount": "2.3",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "260",
+        "discount": "2.3",
+        "arrCity": "井冈山"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "450",
+        "discount": "2.5",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "350",
+        "discount": "2.6",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "389",
+        "discount": "2.6",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "540",
+        "discount": "2.7",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "250",
+        "discount": "2.7",
+        "arrCity": "百色"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "645",
+        "discount": "2.8",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "430",
+        "discount": "2.8",
+        "arrCity": "南京"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "591",
+        "discount": "2.9",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "400",
+        "discount": "2.9",
+        "arrCity": "杭州"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "434",
+        "discount": "2.9",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "510",
+        "discount": "3",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "404",
+        "discount": "3",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "595",
+        "discount": "3",
+        "arrCity": "呼和浩特"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "409",
+        "discount": "3",
+        "arrCity": "十堰"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "1030",
+        "discount": "3",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "820",
+        "discount": "3",
+        "arrCity": "长春"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "728",
+        "discount": "3",
+        "arrCity": "西宁"
+      },
+      {
+        "date": "2019-07-08",
+        "price": "210",
+        "discount": "3.1",
+        "arrCity": "北海"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "500",
+        "discount": "3.1",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "424",
+        "discount": "3.1",
+        "arrCity": "无锡"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "540",
+        "discount": "3.1",
+        "arrCity": "石家庄"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "689",
+        "discount": "3.2",
+        "arrCity": "兰州"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "379",
+        "discount": "3.3",
+        "arrCity": "合肥"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "569",
+        "discount": "3.4",
+        "arrCity": "成都"
+      }
+    ]
+  },
+  {
+    "南京": [
+      {
+        "date": "2019-07-20",
+        "price": "280",
+        "discount": "1.3",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-07-07",
+        "price": "150",
+        "discount": "1.5",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-07-04",
+        "price": "230",
+        "discount": "2",
+        "arrCity": "忻州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "210",
+        "discount": "2.1",
+        "arrCity": "运城"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "180",
+        "discount": "2.5",
+        "arrCity": "盐城"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "470",
+        "discount": "2.5",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "450",
+        "discount": "2.8",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "300",
+        "discount": "2.9",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "400",
+        "discount": "2.9",
+        "arrCity": "鞍山"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "590",
+        "discount": "2.9",
+        "arrCity": "大庆"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "360",
+        "discount": "2.9",
+        "arrCity": "桂林"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "334",
+        "discount": "2.9",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "579",
+        "discount": "3",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-07-07",
+        "price": "271",
+        "discount": "3",
+        "arrCity": "福州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "360",
+        "discount": "3",
+        "arrCity": "青岛"
+      },
+      {
+        "date": "2019-07-05",
+        "price": "200",
+        "discount": "3.1",
+        "arrCity": "连云港"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "480",
+        "discount": "3.1",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "560",
+        "discount": "3.1",
+        "arrCity": "深圳"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "420",
+        "discount": "3.1",
+        "arrCity": "遵义"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "700",
+        "discount": "3.3",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "510",
+        "discount": "3.3",
+        "arrCity": "绵阳"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "347",
+        "discount": "3.4",
+        "arrCity": "石家庄"
+      },
+      {
+        "date": "2019-07-09",
+        "price": "840",
+        "discount": "3.4",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "580",
+        "discount": "3.4",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "502",
+        "discount": "3.4",
+        "arrCity": "鄂尔多斯"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "540",
+        "discount": "3.5",
+        "arrCity": "珠海"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "514",
+        "discount": "3.5",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "445",
+        "discount": "3.6",
+        "arrCity": "汉中"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "610",
+        "discount": "3.6",
+        "arrCity": "北海"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "515",
+        "discount": "3.6",
+        "arrCity": "广州"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "330",
+        "discount": "3.7",
+        "arrCity": "烟台"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "358",
+        "discount": "3.7",
+        "arrCity": "长沙"
+      }
+    ]
+  },
+  {
+    "成都": [
+      {
+        "date": "2019-06-24",
+        "price": "100",
+        "discount": "1.1",
+        "arrCity": "达州"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "229",
+        "discount": "1.4",
+        "arrCity": "康定"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "240",
+        "discount": "1.8",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "439",
+        "discount": "2",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "200",
+        "discount": "2.1",
+        "arrCity": "巴中"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "198",
+        "discount": "2.5",
+        "arrCity": "恩施"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "248",
+        "discount": "2.5",
+        "arrCity": "凯里"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "430",
+        "discount": "2.6",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "419",
+        "discount": "2.8",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "404",
+        "discount": "3",
+        "arrCity": "石家庄"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "480",
+        "discount": "3",
+        "arrCity": "稻城"
+      },
+      {
+        "date": "2019-07-08",
+        "price": "588",
+        "discount": "3",
+        "arrCity": "宁蒗"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "670",
+        "discount": "3.1",
+        "arrCity": "鞍山"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "480",
+        "discount": "3.3",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "330",
+        "discount": "3.3",
+        "arrCity": "兰州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "815",
+        "discount": "3.4",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "747",
+        "discount": "3.4",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "318",
+        "discount": "3.4",
+        "arrCity": "延安"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "710",
+        "discount": "3.4",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "500",
+        "discount": "3.5",
+        "arrCity": "合肥"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "950",
+        "discount": "3.5",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "740",
+        "discount": "3.5",
+        "arrCity": "南京"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "340",
+        "discount": "3.5",
+        "arrCity": "十堰"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "678",
+        "discount": "3.5",
+        "arrCity": "大连"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "430",
+        "discount": "3.5",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "755",
+        "discount": "3.6",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "440",
+        "discount": "3.6",
+        "arrCity": "大理"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "320",
+        "discount": "3.6",
+        "arrCity": "常德"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "380",
+        "discount": "3.6",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "940",
+        "discount": "3.7",
+        "arrCity": "乌鲁木齐"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "570",
+        "discount": "3.7",
+        "arrCity": "珠海"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "560",
+        "discount": "3.7",
+        "arrCity": "攀枝花"
+      }
+    ]
+  },
+  {
+    "武汉": [
+      {
+        "date": "2019-07-20",
+        "price": "180",
+        "discount": "1.1",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-07-06",
+        "price": "110",
+        "discount": "1.1",
+        "arrCity": "十堰"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "120",
+        "discount": "1.2",
+        "arrCity": "神农架"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "160",
+        "discount": "1.3",
+        "arrCity": "恩施"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "330",
+        "discount": "2",
+        "arrCity": "长治"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "220",
+        "discount": "2",
+        "arrCity": "榆林"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "291",
+        "discount": "2",
+        "arrCity": "大连"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "390",
+        "discount": "2.1",
+        "arrCity": "广州"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "480",
+        "discount": "2.1",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "215",
+        "discount": "2.4",
+        "arrCity": "三明"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "470",
+        "discount": "2.5",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "374",
+        "discount": "2.5",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "432",
+        "discount": "2.6",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "304",
+        "discount": "2.6",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "200",
+        "discount": "2.7",
+        "arrCity": "杭州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "530",
+        "discount": "2.7",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "294",
+        "discount": "2.8",
+        "arrCity": "福州"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "330",
+        "discount": "2.8",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "208",
+        "discount": "2.8",
+        "arrCity": "黄山"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "460",
+        "discount": "2.9",
+        "arrCity": "锦州"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "421",
+        "discount": "2.9",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "253",
+        "discount": "2.9",
+        "arrCity": "襄阳(中国)"
+      },
+      {
+        "date": "2019-07-14",
+        "price": "390",
+        "discount": "2.9",
+        "arrCity": "湛江"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "537",
+        "discount": "3",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "261",
+        "discount": "3",
+        "arrCity": "泉州"
+      },
+      {
+        "date": "2019-07-09",
+        "price": "570",
+        "discount": "3",
+        "arrCity": "深圳"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "368",
+        "discount": "3.2",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-07-15",
+        "price": "330",
+        "discount": "3.4",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "270",
+        "discount": "3.4",
+        "arrCity": "淮安"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "1040",
+        "discount": "3.4",
+        "arrCity": "乌鲁木齐"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "640",
+        "discount": "3.5",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "377",
+        "discount": "3.5",
+        "arrCity": "厦门"
+      }
+    ]
+  },
+  {
+    "重庆": [
+      {
+        "date": "2019-06-26",
+        "price": "194",
+        "discount": "1.7",
+        "arrCity": "荔波"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "270",
+        "discount": "1.7",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "220",
+        "discount": "1.7",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "194",
+        "discount": "1.9",
+        "arrCity": "陇南"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "291",
+        "discount": "1.9",
+        "arrCity": "长沙"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "229",
+        "discount": "2",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "370",
+        "discount": "2",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "304",
+        "discount": "2.2",
+        "arrCity": "西宁"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "414",
+        "discount": "2.3",
+        "arrCity": "包头"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "294",
+        "discount": "2.4",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "494",
+        "discount": "2.4",
+        "arrCity": "大连"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "283",
+        "discount": "2.4",
+        "arrCity": "兰州"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "244",
+        "discount": "2.5",
+        "arrCity": "桂林"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "450",
+        "discount": "2.5",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "128",
+        "discount": "2.6",
+        "arrCity": "黔江"
+      },
+      {
+        "date": "2019-07-04",
+        "price": "330",
+        "discount": "2.7",
+        "arrCity": "信阳"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "502",
+        "discount": "2.8",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "430",
+        "discount": "2.8",
+        "arrCity": "康定"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "520",
+        "discount": "2.8",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "394",
+        "discount": "2.8",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "344",
+        "discount": "2.9",
+        "arrCity": "合肥"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "340",
+        "discount": "2.9",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "344",
+        "discount": "2.9",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "490",
+        "discount": "3",
+        "arrCity": "广州"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "339",
+        "discount": "3",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "521",
+        "discount": "3",
+        "arrCity": "福州"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "580",
+        "discount": "3",
+        "arrCity": "稻城"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "304",
+        "discount": "3.1",
+        "arrCity": "固原"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "592",
+        "discount": "3.1",
+        "arrCity": "青岛"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "554",
+        "discount": "3.1",
+        "arrCity": "杭州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "404",
+        "discount": "3.2",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "784",
+        "discount": "3.2",
+        "arrCity": "哈尔滨"
+      }
+    ]
+  },
+  {
+    "上海": [
+      {
+        "date": "2019-07-07",
+        "price": "180",
+        "discount": "1.2",
+        "arrCity": "温州"
+      },
+      {
+        "date": "2019-07-11",
+        "price": "150",
+        "discount": "1.5",
+        "arrCity": "南京"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "290",
+        "discount": "1.7",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "333",
+        "discount": "2",
+        "arrCity": "桂林"
+      },
+      {
+        "date": "2019-07-10",
+        "price": "390",
+        "discount": "2",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "248",
+        "discount": "2.2",
+        "arrCity": "宜春"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "230",
+        "discount": "2.3",
+        "arrCity": "福州"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "250",
+        "discount": "2.4",
+        "arrCity": "连云港"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "460",
+        "discount": "2.4",
+        "arrCity": "榆林"
+      },
+      {
+        "date": "2019-07-13",
+        "price": "250",
+        "discount": "2.4",
+        "arrCity": "合肥"
+      },
+      {
+        "date": "2019-07-17",
+        "price": "310",
+        "discount": "2.4",
+        "arrCity": "舟山"
+      },
+      {
+        "date": "2019-07-14",
+        "price": "310",
+        "discount": "2.4",
+        "arrCity": "济南"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "330",
+        "discount": "2.5",
+        "arrCity": "揭阳"
+      },
+      {
+        "date": "2019-07-06",
+        "price": "350",
+        "discount": "2.5",
+        "arrCity": "郑州"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "380",
+        "discount": "2.6",
+        "arrCity": "十堰"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "180",
+        "discount": "2.6",
+        "arrCity": "阜阳"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "400",
+        "discount": "2.6",
+        "arrCity": "柳州"
+      },
+      {
+        "date": "2019-07-13",
+        "price": "420",
+        "discount": "2.6",
+        "arrCity": "长沙"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "640",
+        "discount": "2.7",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "588",
+        "discount": "2.7",
+        "arrCity": "长春"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "709",
+        "discount": "2.8",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "190",
+        "discount": "2.8",
+        "arrCity": "宁波"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "510",
+        "discount": "2.8",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "550",
+        "discount": "2.8",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "520",
+        "discount": "2.8",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "490",
+        "discount": "2.9",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "323",
+        "discount": "2.9",
+        "arrCity": "泉州"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "460",
+        "discount": "2.9",
+        "arrCity": "遵义(茅台)"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "460",
+        "discount": "2.9",
+        "arrCity": "遵义"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "440",
+        "discount": "3",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "505",
+        "discount": "3",
+        "arrCity": "深圳"
+      },
+      {
+        "date": "2019-07-08",
+        "price": "290",
+        "discount": "3.2",
+        "arrCity": "临沂"
+      }
+    ]
+  },
+  {
+    "北京": [
+      {
+        "date": "2019-07-16",
+        "price": "180",
+        "discount": "1.2",
+        "arrCity": "青岛"
+      },
+      {
+        "date": "2019-07-06",
+        "price": "280",
+        "discount": "1.3",
+        "arrCity": "南京"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "330",
+        "discount": "1.4",
+        "arrCity": "杭州"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "320",
+        "discount": "1.6",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-07-07",
+        "price": "280",
+        "discount": "1.6",
+        "arrCity": "常州"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "280",
+        "discount": "1.7",
+        "arrCity": "合肥"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "280",
+        "discount": "1.7",
+        "arrCity": "长春"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "180",
+        "discount": "1.7",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "202",
+        "discount": "1.8",
+        "arrCity": "日照"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "430",
+        "discount": "1.9",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "346",
+        "discount": "2",
+        "arrCity": "连城"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "397",
+        "discount": "2",
+        "arrCity": "珠海"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "265",
+        "discount": "2",
+        "arrCity": "金昌"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "380",
+        "discount": "2",
+        "arrCity": "无锡"
+      },
+      {
+        "date": "2019-07-06",
+        "price": "260",
+        "discount": "2.1",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "466",
+        "discount": "2.2",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "291",
+        "discount": "2.3",
+        "arrCity": "岳阳"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "322",
+        "discount": "2.3",
+        "arrCity": "陇南"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "715",
+        "discount": "2.5",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "750",
+        "discount": "2.5",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "570",
+        "discount": "2.5",
+        "arrCity": "西宁"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "210",
+        "discount": "2.5",
+        "arrCity": "淮安"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "800",
+        "discount": "2.6",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-07-04",
+        "price": "180",
+        "discount": "2.7",
+        "arrCity": "吕梁"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "581",
+        "discount": "2.8",
+        "arrCity": "兴义"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "420",
+        "discount": "2.8",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "695",
+        "discount": "2.8",
+        "arrCity": "深圳"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "241",
+        "discount": "2.9",
+        "arrCity": "延安"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "430",
+        "discount": "2.9",
+        "arrCity": "宜昌"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "289",
+        "discount": "2.9",
+        "arrCity": "信阳"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "820",
+        "discount": "2.9",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "551",
+        "discount": "2.9",
+        "arrCity": "佛山"
+      }
+    ]
+  },
+  {
+    "昆明": [
+      {
+        "date": "2019-06-26",
+        "price": "189",
+        "discount": "1",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "189",
+        "discount": "1.1",
+        "arrCity": "西双版纳"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "150",
+        "discount": "1.2",
+        "arrCity": "大理"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "98",
+        "discount": "1.3",
+        "arrCity": "兴义"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "169",
+        "discount": "1.4",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "232",
+        "discount": "1.4",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "262",
+        "discount": "1.4",
+        "arrCity": "陇南"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "344",
+        "discount": "1.5",
+        "arrCity": "忻州"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "199",
+        "discount": "1.6",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "470",
+        "discount": "1.7",
+        "arrCity": "青岛"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "345",
+        "discount": "1.8",
+        "arrCity": "芒市"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "368",
+        "discount": "1.8",
+        "arrCity": "兰州"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "500",
+        "discount": "1.9",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "160",
+        "discount": "1.9",
+        "arrCity": "遵义"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "160",
+        "discount": "1.9",
+        "arrCity": "遵义(茅台)"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "366",
+        "discount": "2",
+        "arrCity": "恩施"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "399",
+        "discount": "2",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "275",
+        "discount": "2",
+        "arrCity": "汉中"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "509",
+        "discount": "2",
+        "arrCity": "济南"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "289",
+        "discount": "2",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "349",
+        "discount": "2",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "329",
+        "discount": "2",
+        "arrCity": "腾冲"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "289",
+        "discount": "2",
+        "arrCity": "香格里拉"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "418",
+        "discount": "2",
+        "arrCity": "温州"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "479",
+        "discount": "2",
+        "arrCity": "无锡"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "585",
+        "discount": "2.1",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "750",
+        "discount": "2.1",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "414",
+        "discount": "2.1",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "199",
+        "discount": "2.1",
+        "arrCity": "沧源"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "228",
+        "discount": "2.1",
+        "arrCity": "绵阳"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "210",
+        "discount": "2.1",
+        "arrCity": "达州"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "558",
+        "discount": "2.1",
+        "arrCity": "烟台"
+      }
+    ]
+  },
+  {
+    "合肥": [
+      {
+        "date": "2019-06-25",
+        "price": "118",
+        "discount": "1.4",
+        "arrCity": "黄山"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "145",
+        "discount": "1.5",
+        "arrCity": "台州"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "280",
+        "discount": "1.7",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-07-04",
+        "price": "250",
+        "discount": "2",
+        "arrCity": "惠州"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "418",
+        "discount": "2.1",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "340",
+        "discount": "2.2",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-07-12",
+        "price": "250",
+        "discount": "2.4",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-07-10",
+        "price": "449",
+        "discount": "2.5",
+        "arrCity": "兰州"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "265",
+        "discount": "2.5",
+        "arrCity": "石家庄"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "334",
+        "discount": "2.6",
+        "arrCity": "珠海"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "320",
+        "discount": "2.7",
+        "arrCity": "大同"
+      },
+      {
+        "date": "2019-07-15",
+        "price": "300",
+        "discount": "2.8",
+        "arrCity": "揭阳"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "544",
+        "discount": "2.9",
+        "arrCity": "西宁"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "440",
+        "discount": "3",
+        "arrCity": "绵阳"
+      },
+      {
+        "date": "2019-07-14",
+        "price": "620",
+        "discount": "3",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "370",
+        "discount": "3",
+        "arrCity": "深圳"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "251",
+        "discount": "3",
+        "arrCity": "运城"
+      },
+      {
+        "date": "2019-07-20",
+        "price": "600",
+        "discount": "3.1",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "440",
+        "discount": "3.1",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "380",
+        "discount": "3.1",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "450",
+        "discount": "3.2",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "384",
+        "discount": "3.2",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "354",
+        "discount": "3.2",
+        "arrCity": "桂林"
+      },
+      {
+        "date": "2019-06-30",
+        "price": "390",
+        "discount": "3.3",
+        "arrCity": "鄂尔多斯"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "340",
+        "discount": "3.4",
+        "arrCity": "泉州"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "420",
+        "discount": "3.4",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "440",
+        "discount": "3.5",
+        "arrCity": "呼和浩特"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "540",
+        "discount": "3.6",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "375",
+        "discount": "3.8",
+        "arrCity": "郑州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "320",
+        "discount": "3.9",
+        "arrCity": "烟台"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "360",
+        "discount": "3.9",
+        "arrCity": "太原"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "327",
+        "discount": "3.9",
+        "arrCity": "厦门"
+      }
+    ]
+  },
+  {
+    "杭州": [
+      {
+        "date": "2019-06-25",
+        "price": "400",
+        "discount": "1.7",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "380",
+        "discount": "1.7",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "288",
+        "discount": "2",
+        "arrCity": "柳州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "430",
+        "discount": "2.3",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "340",
+        "discount": "2.3",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "418",
+        "discount": "2.4",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "265",
+        "discount": "2.5",
+        "arrCity": "衡阳"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "380",
+        "discount": "2.5",
+        "arrCity": "延安"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "420",
+        "discount": "2.5",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "248",
+        "discount": "2.5",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "618",
+        "discount": "2.5",
+        "arrCity": "西宁"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "338",
+        "discount": "2.6",
+        "arrCity": "榆林"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "540",
+        "discount": "2.7",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "450",
+        "discount": "2.7",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "339",
+        "discount": "2.8",
+        "arrCity": "赣州"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "350",
+        "discount": "2.8",
+        "arrCity": "桂林"
+      },
+      {
+        "date": "2019-07-06",
+        "price": "550",
+        "discount": "2.8",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-06-22",
+        "price": "570",
+        "discount": "2.9",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "259",
+        "discount": "2.9",
+        "arrCity": "武夷山"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "310",
+        "discount": "2.9",
+        "arrCity": "宜昌"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "279",
+        "discount": "2.9",
+        "arrCity": "阜阳"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "405",
+        "discount": "3",
+        "arrCity": "珠海"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "320",
+        "discount": "3",
+        "arrCity": "厦门"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "778",
+        "discount": "3",
+        "arrCity": "丽江"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "491",
+        "discount": "3",
+        "arrCity": "南宁"
+      },
+      {
+        "date": "2019-06-28",
+        "price": "318",
+        "discount": "3",
+        "arrCity": "长沙"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "769",
+        "discount": "3",
+        "arrCity": "稻城"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "500",
+        "discount": "3.1",
+        "arrCity": "深圳"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "990",
+        "discount": "3.1",
+        "arrCity": "克拉玛依"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "400",
+        "discount": "3.1",
+        "arrCity": "运城"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "720",
+        "discount": "3.1",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "471",
+        "discount": "3.4",
+        "arrCity": "广州"
+      }
+    ]
+  },
+  {
+    "深圳": [
+      {
+        "date": "2019-06-22",
+        "price": "800",
+        "discount": "2",
+        "arrCity": "阿克苏"
+      },
+      {
+        "date": "2019-07-05",
+        "price": "410",
+        "discount": "2.1",
+        "arrCity": "榆林"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "840",
+        "discount": "2.5",
+        "arrCity": "哈尔滨"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "532",
+        "discount": "2.5",
+        "arrCity": "天津"
+      },
+      {
+        "date": "2019-07-01",
+        "price": "630",
+        "discount": "2.6",
+        "arrCity": "北京"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "529",
+        "discount": "2.7",
+        "arrCity": "西安"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "539",
+        "discount": "2.8",
+        "arrCity": "郑州"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "430",
+        "discount": "2.8",
+        "arrCity": "长治"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "580",
+        "discount": "2.8",
+        "arrCity": "银川"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "370",
+        "discount": "2.8",
+        "arrCity": "贵阳"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "550",
+        "discount": "2.9",
+        "arrCity": "武汉"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "311",
+        "discount": "2.9",
+        "arrCity": "柳州"
+      },
+      {
+        "date": "2019-07-02",
+        "price": "686",
+        "discount": "2.9",
+        "arrCity": "济南"
+      },
+      {
+        "date": "2019-07-17",
+        "price": "289",
+        "discount": "2.9",
+        "arrCity": "梅县"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "525",
+        "discount": "3",
+        "arrCity": "临汾"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "550",
+        "discount": "3",
+        "arrCity": "昆明"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "723",
+        "discount": "3",
+        "arrCity": "大连"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "900",
+        "discount": "3",
+        "arrCity": "沈阳"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "685",
+        "discount": "3",
+        "arrCity": "唐山"
+      },
+      {
+        "date": "2019-06-23",
+        "price": "441",
+        "discount": "3",
+        "arrCity": "杭州"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "583",
+        "discount": "3",
+        "arrCity": "成都"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "733",
+        "discount": "3",
+        "arrCity": "营口"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "475",
+        "discount": "3",
+        "arrCity": "重庆"
+      },
+      {
+        "date": "2019-07-03",
+        "price": "280",
+        "discount": "3.1",
+        "arrCity": "泉州"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "590",
+        "discount": "3.1",
+        "arrCity": "石家庄"
+      },
+      {
+        "date": "2019-06-24",
+        "price": "808",
+        "discount": "3.1",
+        "arrCity": "西宁"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "560",
+        "discount": "3.1",
+        "arrCity": "南京"
+      },
+      {
+        "date": "2019-06-26",
+        "price": "385",
+        "discount": "3.2",
+        "arrCity": "海口"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "490",
+        "discount": "3.3",
+        "arrCity": "合肥"
+      },
+      {
+        "date": "2019-06-25",
+        "price": "300",
+        "discount": "3.3",
+        "arrCity": "三亚"
+      },
+      {
+        "date": "2019-06-29",
+        "price": "560",
+        "discount": "3.4",
+        "arrCity": "上海"
+      },
+      {
+        "date": "2019-06-27",
+        "price": "593",
+        "discount": "3.4",
+        "arrCity": "邯郸"
+      }
+    ]
+  }
+]
