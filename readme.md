@@ -12,8 +12,12 @@
 - [x] [member](https://github.com/sen520/spider/tree/master/member)
     - 图片验证码
 
-- [X] [豆瓣](https://github.com/sen520/spider/tree/master/douban)
+- [x] [豆瓣](https://github.com/sen520/spider/tree/master/douban)
     - 作者和相关信息需要单独发送请求
+
+- [x] 携程
+    - [x] 有访问次数限制，需要代理
+    - [ ] PyExecJS
 
 - [ ] 验证码
 
@@ -36,9 +40,7 @@
 
 - [ ] sina
 
-- [ ] 携程
-    - 有访问次数限制，需要代理
-    - pyexec
+
 
 - [ ] 去哪
 
