@@ -1,7 +1,7 @@
 import requests
 from lxml import etree
 import re
-from tools.data_to_json import data_to_json, parse_price, sort_dict
+from tools.tools import data_to_json, parse_price, sort_dict
 import time
 
 headers = {

@@ -2,7 +2,8 @@ import io
 import json
 import operator
 import re
-
+import requests
+import os
 
 def data_to_json(data, name):
     with io.open(name + '.json', 'w', encoding='utf-8') as fo:
@@ -43,3 +44,14 @@ def parse_price(num_str):
     except Exception as e:
         print(e)
         return num_str
+
+def get_img(url, path, name=None):
+    if not name:
+        name = url.split('/')[-1]
+    path = os.path.join(path, name)
+    res = requests.get(url)
+    with open(path, 'wb') as f:
+        f.write(res.content)
+    return path
+
+

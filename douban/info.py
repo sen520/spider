@@ -3,7 +3,7 @@ from lxml import etree
 from openpyxl import Workbook
 import json
 import re
-from tools.data_to_json import data_to_json
+from tools.tools import data_to_json
 
 def get_page(url, name):
     id = re.search('\/(\d+)\/', url)[1]

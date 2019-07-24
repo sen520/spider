@@ -1,7 +1,7 @@
 import requests
 from lxml import etree
 from pypinyin import lazy_pinyin
-from tools.data_to_json import data_to_json
+from tools.tools import data_to_json
 import json
 
 

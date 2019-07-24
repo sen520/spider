@@ -2,7 +2,9 @@ import requests
 from lxml import etree
 import time
 import re
-from tools.data_to_json import data_to_json
+from tools.tools import data_to_json, get_img
+import os
+
 
 def get_url(url):
     res = requests.get(url)
@@ -12,11 +14,10 @@ def get_url(url):
     total = len(url_list)
     hero_list = []
     for index, u in enumerate(url_list):
-        print('一共%d个, 正在抓取%d个' %(total, index+1))
+        print('一共%d个, 正在抓取%d个' % (total, index + 1))
         data = get_info(u)
         hero_list.append(data)
         data_to_json(hero_list, 'hero')
-
 
 
 def get_info(url):
@@ -55,7 +56,7 @@ def get_info(url):
     skill_list = []
     for skill in skills:
         skill_name = skill.xpath('.//div[@class="title"]/span[1]/text()')[0]
-        skill_attr =  skill.xpath('.//div[@class="title"]/span[2]/text()')[0]
+        skill_attr = skill.xpath('.//div[@class="title"]/span[2]/text()')[0]
         skill_effect = ' '.join(skill.xpath('./p/text()'))
         skill_list.append({'name': skill_name, 'attr': skill_attr, 'effect': skill_effect.strip()})
 
@@ -95,6 +96,12 @@ def get_info(url):
     hero_dict['inscription'] = inscription_dict
     hero_dict['relationships'] = relationship_dict
     return hero_dict
+
+
+def get_image(url):
+    os.getcwd()
+    pwd = get_img(url, os.getcwd())
+    return pwd
 
 
 if __name__ == '__main__':
