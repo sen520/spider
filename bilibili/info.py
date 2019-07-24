@@ -1,7 +1,6 @@
 import requests
 import re
 from lxml import etree
-import xml.sax
 
 headers = {
     "Access-Control-Request-Headers": "range",
