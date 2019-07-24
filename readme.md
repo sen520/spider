@@ -28,6 +28,8 @@
 
 - [x] [去哪](https://github.com/sen520/spider/tree/master/qunar)
 
+- [x] [链家二手房](https://github.com/sen520/spider/tree/master/lianjia)
+
 - [ ] 验证码
 
     - [x] 滑动验证码
