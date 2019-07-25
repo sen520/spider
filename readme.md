@@ -47,3 +47,5 @@
 
 - [x] wzry 王者荣耀信息
     - [x] 信息量大，xpath难写
+    
+- [x] boss boss直聘
