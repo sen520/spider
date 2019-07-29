@@ -2,6 +2,8 @@ import io
 import json
 import operator
 import re
+
+import pandas as pd
 import requests
 import os
 
@@ -80,6 +82,26 @@ class GetProxy(object):
 def get_proxy():
     proxy = GetProxy()
     return proxy.get_proxy()
+
+
+def data_to_csv(data_list, csv_key, name):
+    """
+    save data to csv
+    :param data_list: data
+    :param csv_key: csv column
+    :param name: file name
+    :return:
+    """
+    final_data = []
+    for data in data_list:
+        sign_key = []
+        for key, value in data.items():
+            sign_key.append(value)
+        final_data.append(sign_key)
+    # 将总数据转化为data frame再输出
+    df = pd.DataFrame(data=final_data,
+                      columns=csv_key)
+    df.to_csv(name + '.csv', index=False, encoding='utf-8_sig')
 
 
 if __name__ == '__main__':

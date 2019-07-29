@@ -1,6 +1,7 @@
+import pandas as pd
 import requests
 from lxml import etree
-from tools.tools import data_to_json
+from tools.tools import data_to_json, data_to_csv
 
 headers = {
     "accept": "application/json, text/javascript, */*; q=0.01",
@@ -30,20 +31,34 @@ def get_info(url, data_list):
         treatment = info_div.xpath('.//span/text()')[0]
         info = info_div.xpath('.//p/text()')
         addr_list = info[0].split(' ')
-        addr_dict = {'city': addr_list[0], 'area': addr_list[1], 'street': addr_list[2]}
-        exp = {'work': info[1], 'edu': info[2]}
-        company_dict['position'] = {'name': position, 'treatment': treatment, 'addr': addr_dict, 'exp': exp}
+        # addr_dict = {'city': addr_list[0], 'area': addr_list[1], 'street': addr_list[2]}
+        company_dict['city'] = addr_list[0]
+        company_dict['area'] = addr_list[1]
+        company_dict['street'] = addr_list[2]
+
+        # exp = {'work': info[1], 'edu': info[2]}
+        company_dict['work'] = info[1]
+        company_dict['edu'] = info[2]
+        company_dict['position'] = position
+        company_dict['treatment'] = treatment
+
         # company
         company_name = company_div.xpath('./h3/a/text()')[0]
         company_info = company_div.xpath('./p/text()')
         company_tag = ''
         if len(company_info) > 2:
             company_tag = company_info[1]
-        company_dict['company'] = {'companyName': company_name, 'companyType': company_info[0],
-                                   'companyTag': company_tag, 'companyTeam': company_info[-1]}
+        # company_dict['company'] = {'companyName': company_name, 'companyType': company_info[0],
+        #                            'companyTag': company_tag, 'companyTeam': company_info[-1]}
+        company_dict['companyName'] = company_name
+        company_dict['companyType'] = company_info[0]
+        company_dict['companyTag'] = company_tag
+        company_dict['companyTeam'] = company_info[-1]
         # contacter
         contacter = contact_person_div.xpath('./h3/text()')
-        company_dict['contacter'] = {'name': contacter[0], 'position': contacter[-1]}
+        # company_dict['contacter'] = {'name': contacter[0], 'position': contacter[-1]}
+        company_dict['contacter'] = contacter[0]
+        company_dict['contacter_position'] = contacter[-1]
         data_list.append(company_dict)
     return data_list
 
@@ -55,5 +70,10 @@ if __name__ == '__main__':
     for index, url in enumerate(urls):
         print('一共%d个url, 正在抓%d' % (total, index + 1))
         data_list = get_info(url, data_list)
-    print(len(data_list))
+
+    # save to json
     data_to_json(data_list, 'job')
+
+    # save to csv
+    csv_key = ['公司地址', '所属区域', '所属街道', '工作经验', '招聘学历', '招聘职位', '薪资范围', '公司名称', '服务范围', '融资状态', '公司规模', '联系人', '联系人职位']
+    data_to_csv(data_list, csv_key, 'boss')
