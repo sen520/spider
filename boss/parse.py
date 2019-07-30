@@ -47,6 +47,7 @@ df['招聘学历'] = df['招聘学历'].replace('不限', '大专')
 df['招聘学历'] = df['招聘学历'].replace('学历不限', '大专')
 
 # 绘制频率直方图并保存
+
 plt.hist(df['月工资'])
 plt.xlabel('工资 (千元)')
 plt.ylabel('频数')
@@ -76,6 +77,7 @@ for i in index:
     num.append(dict[i])
 print(num)
 plt.bar(x=index, height=num, width=0.5)
+plt.title("学历分析直方图")
 plt.savefig('学历分析.jpg')
 plt.show()
 
