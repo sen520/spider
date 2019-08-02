@@ -1,9 +1,12 @@
+from datetime import datetime
+
 import requests
 from lxml import etree
 import time
-from tools.tools import data_to_json, write_csv
+from tools.tools import data_to_json, write_csv, create_logger
 import os
 
+log = create_logger('spider.log')
 
 headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
@@ -60,7 +63,8 @@ def get_data(date):
         if li[0] == '日期':
             continue
         else:
-            print(li)
+            log.info(datetime.now())
+            log.info(li)
             if len(li) == 6:
                 datas.append(
                     {'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': li[3], 'wind_dir': li[4], 'wind_value': li[5]})
@@ -69,7 +73,8 @@ def get_data(date):
                     if li[4] == '暂无实况':
                         datas.append(
                             {'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': li[3], 'wind_dir': '', 'wind_value': 0})
-                except:
+                except Exception as e:
+                    log.error(e)
                     if li[1] == li[2]:
                         datas.append(
                             {'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': '', 'wind_dir': '',
