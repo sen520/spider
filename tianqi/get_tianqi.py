@@ -74,17 +74,19 @@ def get_data(date):
                         datas.append(
                             {'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': li[3], 'wind_dir': '', 'wind_value': 0})
                 except Exception as e:
-                    log.error(e)
-                    if li[1] == li[2]:
-                        datas.append(
-                            {'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': '', 'wind_dir': '',
-                             'wind_value': 0})
-                    else:
-                        try:
-                            datas.append({'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': li[3], 'wind_dir': '', 'wind_value': 0})
-                        except:
-                            datas.append({'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': '', 'wind_dir': '', 'wind_value': 0})
-
+                    try:
+                        log.error(e)
+                        if li[1] == li[2]:
+                            datas.append(
+                                {'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': '', 'wind_dir': '',
+                                 'wind_value': 0})
+                        else:
+                            try:
+                                datas.append({'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': li[3], 'wind_dir': '', 'wind_value': 0})
+                            except:
+                                datas.append({'date': li[0], 'ht': li[1], 'lt': li[2], 'weather': '', 'wind_dir': '', 'wind_value': 0})
+                    except Exception as e:
+                        log.error(e)
     return datas
 
 
