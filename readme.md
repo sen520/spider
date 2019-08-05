@@ -22,6 +22,11 @@
     - [x] 有访问次数限制，需要代理
     - [ ] PyExecJS
 
+- [x] [天气](https://github.com/sen520/spider/tree/master/tianqi)
+    - [x] 抓取城市天气
+    - [x] 数据可视化
+    
+    
 - [x] [知乎](https://github.com/sen520/spider/tree/master/zhihu) 
     - js动态加载
     - 登录cookie
