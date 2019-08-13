@@ -1,7 +1,7 @@
 from collections import defaultdict
 import requests
 import time
-from tools.tools import data_to_json
+from tools.tools import data_to_json, data_to_csv
 
 
 def parse_page(json_object, company_list):
@@ -28,13 +28,13 @@ def parse_items(items, company_list):
         company_dict['financeStage'] = item['financeStage']
         company_dict['industryField'] = item['industryField']
         company_dict['positionAdvantage'] = item['positionAdvantage']
-        company_dict['companyLabelList'] = item['companyLabelList']
+        company_dict['companyLabelList'] = ', '.join(item['companyLabelList'])
         company_dict['district'] = item['district']
-        company_dict['positionLables'] = item['positionLables']
-        company_dict['businessZones'] = item['businessZones']
+        company_dict['positionLables'] = ', '.join(item['positionLables'])
+        company_dict['businessZones'] = ', '.join(item['businessZones']) if type(item['businessZones']) == list else item['businessZones']
         company_dict['firstType'] = item['firstType']
         company_dict['secondType'] = item['secondType']
-        company_dict['thirdType'] = item['skillLables']
+        company_dict['thirdType'] = ', '.join(item['skillLables'])
         company_list.append(company_dict)
         print(company_dict)
     return company_list
@@ -64,5 +64,9 @@ if __name__ == '__main__':
             break
         company_list = l
         time.sleep(3)
+        csv_key = ['company_name', 'company_name_short', 'position_name', 'workYear', 'education', 'jobNature',
+                   'salary', 'city', 'financeStage', 'industryField', 'positionAdvantage', 'companyLabelList',
+                   'district', 'positionLables', 'businessZones', 'firstType', 'secondType', 'thirdType']
+        data_to_csv(company_list, csv_key, 'lagou')
         data_to_json(company_list, 'company')
         print('============')

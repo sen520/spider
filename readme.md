@@ -52,7 +52,6 @@
     - cookie 登录，采用post方法直接访问接口
 
 - [x] wzry 王者荣耀信息
-    - 信息量大，xpath难写
     
 - [x] boss boss直聘
 

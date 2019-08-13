@@ -1,5 +1,45 @@
 [
   {
+    "company_name": "风变科技（深圳）有限公司",
+    "company_name_short": "风变科技（深圳）有限公司",
+    "position_name": "python工程师（数据开发方向）",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "9k-16k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "移动互联网,教育",
+    "positionAdvantage": "成长空间大、年轻开放、学习型企业文化",
+    "companyLabelList": "专项奖金, 带薪年假, 定期体检, 六险一金",
+    "district": "南山区",
+    "positionLables": "移动互联网, 教育, 数据挖掘, 数据库开发, ETL",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "数据开发",
+    "thirdType": "数据挖掘, 数据库开发, ETL"
+  },
+  {
+    "company_name": "深圳市客路网络科技有限公司",
+    "company_name_short": "KLOOK 客路旅行",
+    "position_name": "高级Python工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "20k-35k",
+    "city": "深圳",
+    "financeStage": "D轮及以上",
+    "industryField": "旅游",
+    "positionAdvantage": "双休",
+    "companyLabelList": "零食水果供应, 带薪年假, 绩效奖金, 扁平管理",
+    "district": "福田区",
+    "positionLables": "电商, 旅游, 后端",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端"
+  },
+  {
     "company_name": "深圳小步网络科技有限公司",
     "company_name_short": "小步网络",
     "position_name": "Python爬虫工程师",
@@ -11,64 +51,13 @@
     "financeStage": "B轮",
     "industryField": "移动互联网",
     "positionAdvantage": "大牛云集,发展空间大,弹性上班",
-    "companyLabelList": [
-      "股票期权",
-      "定期体检",
-      "下午茶",
-      "年度旅游"
-    ],
+    "companyLabelList": "股票期权, 定期体检, 下午茶, 年度旅游",
     "district": "宝安区",
-    "positionLables": [
-      "Python",
-      "爬虫"
-    ],
-    "businessZones": [
-      "西乡",
-      "新安"
-    ],
+    "positionLables": "Python, 爬虫",
+    "businessZones": "西乡, 新安",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "爬虫"
-    ]
-  },
-  {
-    "company_name": "深圳松茂科技有限公司",
-    "company_name_short": "松茂科技",
-    "position_name": "Python后台开发工程师",
-    "workYear": "3-5年",
-    "education": "不限",
-    "jobNature": "全职",
-    "salary": "15k-25k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网",
-    "positionAdvantage": "5天7小时，年终奖，境外旅游，技术分享",
-    "companyLabelList": [
-      "朝十晚六",
-      "周末双休",
-      "年轻团队",
-      "扁平管理"
-    ],
-    "district": "宝安区",
-    "positionLables": [
-      "中间件",
-      "Python",
-      "MySQL",
-      "后端"
-    ],
-    "businessZones": [
-      "新安"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "中间件",
-      "Python",
-      "MySQL",
-      "后端"
-    ]
+    "thirdType": "Python, 爬虫"
   },
   {
     "company_name": "青牛智胜（深圳）科技有限公司",
@@ -82,26 +71,13 @@
     "financeStage": "不需要融资",
     "industryField": "人工智能",
     "positionAdvantage": "年终奖金 餐饮补贴 周末双休 五险一金",
-    "companyLabelList": [],
+    "companyLabelList": "",
     "district": "南山区",
-    "positionLables": [
-      "Linux/Unix",
-      "C++",
-      "Python",
-      "MySQL"
-    ],
-    "businessZones": [
-      "大冲",
-      "科技园"
-    ],
+    "positionLables": "Linux/Unix, C++, Python, MySQL",
+    "businessZones": "大冲, 科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Linux/Unix",
-      "C++",
-      "Python",
-      "MySQL"
-    ]
+    "thirdType": "Linux/Unix, C++, Python, MySQL"
   },
   {
     "company_name": "深圳市粤盛互联网金融服务有限公司",
@@ -115,25 +91,13 @@
     "financeStage": "未融资",
     "industryField": "移动互联网,金融",
     "positionAdvantage": "发展前进好，AI项目，深度学习",
-    "companyLabelList": [],
+    "companyLabelList": "",
     "district": "南山区",
-    "positionLables": [
-      "Javascript",
-      "CSS",
-      "HTML5",
-      "Web前端"
-    ],
-    "businessZones": [
-      "南油"
-    ],
+    "positionLables": "Javascript, CSS, HTML5, Web前端",
+    "businessZones": "南油",
     "firstType": "开发|测试|运维类",
     "secondType": "前端开发",
-    "thirdType": [
-      "Javascript",
-      "CSS",
-      "HTML5",
-      "Web前端"
-    ]
+    "thirdType": "Javascript, CSS, HTML5, Web前端"
   },
   {
     "company_name": "深信服科技股份有限公司",
@@ -147,57 +111,13 @@
     "financeStage": "不需要融资",
     "industryField": "信息安全,企业服务",
     "positionAdvantage": "平台大,福利好,薪资高",
-    "companyLabelList": [
-      "三餐全包",
-      "大牛超多",
-      "年终奖超多",
-      "大公司，稳定"
-    ],
+    "companyLabelList": "三餐全包, 大牛超多, 年终奖超多, 大公司，稳定",
     "district": "南山区",
-    "positionLables": [
-      "信息安全",
-      "Python"
-    ],
+    "positionLables": "信息安全, Python",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳市博悦科创科技有限公司",
-    "company_name_short": "博悦科创",
-    "position_name": "python工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "10k-16k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网",
-    "positionAdvantage": "五险一金,双休,年终奖,年度旅游",
-    "companyLabelList": [
-      "年底双薪",
-      "定期体检",
-      "绩效奖金",
-      "技能培训"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python",
-      "爬虫"
-    ],
-    "businessZones": [
-      "大冲",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "爬虫"
-    ]
+    "thirdType": "Python"
   },
   {
     "company_name": "智言科技(深圳)有限公司",
@@ -211,308 +131,33 @@
     "financeStage": "B轮",
     "industryField": "数据服务,其他",
     "positionAdvantage": "海归团队,成长空简大,薪酬福利好,扁平管理",
-    "companyLabelList": [
-      "年底双薪",
-      "绩效奖金",
-      "通讯津贴",
-      "扁平管理"
-    ],
+    "companyLabelList": "年底双薪, 绩效奖金, 通讯津贴, 扁平管理",
     "district": "南山区",
-    "positionLables": [
-      "后端",
-      "PHP",
-      "Python"
-    ],
+    "positionLables": "后端, PHP, Python",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "PHP",
-      "Python"
-    ]
+    "thirdType": "后端, PHP, Python"
   },
   {
-    "company_name": "心灵失重（北京）科技有限公司",
-    "company_name_short": "糗事百科",
-    "position_name": "Python",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "移动互联网",
-    "positionAdvantage": "老司机来开车",
-    "companyLabelList": [
-      "媲美名企高薪",
-      "无限量零食",
-      "五险一金",
-      "年度旅游"
-    ],
-    "district": "南山区",
-    "positionLables": [],
-    "businessZones": [
-      "科技园",
-      "南山医院"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳市客路网络科技有限公司",
-    "company_name_short": "KLOOK 客路旅行",
-    "position_name": "Python工程师",
+    "company_name": "深圳市博悦科创科技有限公司",
+    "company_name_short": "博悦科创",
+    "position_name": "python工程师",
     "workYear": "1-3年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "10k-20k",
-    "city": "深圳",
-    "financeStage": "D轮及以上",
-    "industryField": "旅游",
-    "positionAdvantage": "国际化平台,环境舒适,好玩有趣",
-    "companyLabelList": [
-      "零食水果供应",
-      "带薪年假",
-      "绩效奖金",
-      "扁平管理"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "电商",
-      "后端",
-      "Python"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳市杉岩数据技术有限公司",
-    "company_name_short": "杉岩数据",
-    "position_name": "Python开发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "10k-20k",
-    "city": "深圳",
-    "financeStage": "B轮",
-    "industryField": "企业服务,数据服务",
-    "positionAdvantage": "扁平化管理,发展空间大",
-    "companyLabelList": [
-      "股票期权",
-      "扁平管理",
-      "领导好",
-      "五险一金"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "云计算",
-      "Java",
-      "Python",
-      "云计算"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Java",
-      "Python",
-      "云计算"
-    ]
-  },
-  {
-    "company_name": "上海海万信息科技股份有限公司",
-    "company_name_short": "海万科技",
-    "position_name": "python",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "11k-20k",
+    "salary": "10k-16k",
     "city": "深圳",
     "financeStage": "不需要融资",
-    "industryField": "移动互联网,金融",
-    "positionAdvantage": "五险一金 节日福利 双休",
-    "companyLabelList": [],
-    "district": "福田区",
-    "positionLables": [
-      "银行",
-      "互联网金融"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳市贝多分金融科技有限公司",
-    "company_name_short": "贝多分金融",
-    "position_name": "python开发工程师",
-    "workYear": "3-5年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "15k-25k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "金融,电商",
-    "positionAdvantage": "互联网金融",
-    "companyLabelList": [],
-    "district": "福田区",
-    "positionLables": [
-      "后端",
-      "爬虫工程师",
-      "爬虫架构"
-    ],
-    "businessZones": [
-      "下沙",
-      "车公庙"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "爬虫工程师",
-      "爬虫架构"
-    ]
-  },
-  {
-    "company_name": "深圳万威国际科技有限公司",
-    "company_name_short": "万威国际",
-    "position_name": "python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-20k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网,金融",
-    "positionAdvantage": "平台大,国际化,奖金高,福利好",
-    "companyLabelList": [
-      "绩效奖金",
-      "带薪年假",
-      "午餐补助"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "互联网金融",
-      "Python",
-      "爬虫工程师",
-      "数据挖掘"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "爬虫工程师",
-      "数据挖掘"
-    ]
-  },
-  {
-    "company_name": "衍生（深圳）投资基金管理有限公司",
-    "company_name_short": "衍生投资",
-    "position_name": "python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "10k-20k",
-    "city": "深圳",
-    "financeStage": "天使轮",
-    "industryField": "企业服务",
-    "positionAdvantage": "周末双休 免费咖啡 团队成长",
-    "companyLabelList": [],
-    "district": "南山区",
-    "positionLables": [
-      "Python",
-      "MySQL",
-      "Linux/Unix"
-    ],
-    "businessZones": [
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "MySQL",
-      "Linux/Unix"
-    ]
-  },
-  {
-    "company_name": "深圳市乐易网络股份有限公司",
-    "company_name_short": "乐易网络",
-    "position_name": "python开发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "8k-16k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "移动互联网,游戏",
-    "positionAdvantage": "丰厚年终，两次旅游，两次调薪",
-    "companyLabelList": [
-      "技术大牛",
-      "两次年度旅游",
-      "福利倍儿好",
-      "年终奖丰厚"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳小步网络科技有限公司",
-    "company_name_short": "小步网络",
-    "position_name": "Python后台开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "B轮",
     "industryField": "移动互联网",
-    "positionAdvantage": "待遇优厚,成长空间大,弹性上班,下午茶",
-    "companyLabelList": [
-      "股票期权",
-      "定期体检",
-      "下午茶",
-      "年度旅游"
-    ],
-    "district": "宝安区",
-    "positionLables": [
-      "服务器端",
-      "Java",
-      "PHP",
-      "Python"
-    ],
-    "businessZones": [
-      "西乡",
-      "新安"
-    ],
+    "positionAdvantage": "五险一金,双休,年终奖,年度旅游",
+    "companyLabelList": "年底双薪, 定期体检, 绩效奖金, 技能培训",
+    "district": "南山区",
+    "positionLables": "Python, 爬虫",
+    "businessZones": "大冲, 科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "服务器端",
-      "Java",
-      "PHP",
-      "Python"
-    ]
+    "thirdType": "Python, 爬虫"
   },
   {
     "company_name": "申朴信息技术(上海)股份有限公司",
@@ -526,52 +171,53 @@
     "financeStage": "未融资",
     "industryField": "金融",
     "positionAdvantage": "领导nice，餐补、年终奖，交通便利",
-    "companyLabelList": [
-      "节日礼物",
-      "技能培训",
-      "免费班车",
-      "带薪年假"
-    ],
+    "companyLabelList": "节日礼物, 技能培训, 免费班车, 带薪年假",
     "district": "福田区",
-    "positionLables": [
-      "金融",
-      "Shell",
-      "Hadoop"
-    ],
+    "positionLables": "金融, Shell, Hadoop",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Shell",
-      "Hadoop"
-    ]
+    "thirdType": "Shell, Hadoop"
   },
   {
-    "company_name": "深圳市一面网络技术有限公司",
-    "company_name_short": "一面数据",
-    "position_name": "Python 工程师（数据平台方向）",
-    "workYear": "1-3年",
+    "company_name": "心灵失重（北京）科技有限公司",
+    "company_name_short": "糗事百科",
+    "position_name": "Python",
+    "workYear": "3-5年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "10k-20k",
+    "salary": "15k-30k",
     "city": "深圳",
     "financeStage": "A轮",
-    "industryField": "移动互联网,数据服务",
-    "positionAdvantage": "大数据人工智能；名校系大牛；技术氛围浓",
-    "companyLabelList": [
-      "技能培训",
-      "海归精英团队",
-      "Geek分享",
-      "绩效奖金"
-    ],
+    "industryField": "移动互联网",
+    "positionAdvantage": "老司机来开车",
+    "companyLabelList": "媲美名企高薪, 无限量零食, 五险一金, 年度旅游",
     "district": "南山区",
-    "positionLables": [
-      "大数据"
-    ],
-    "businessZones": null,
+    "positionLables": "",
+    "businessZones": "科技园, 南山医院",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": []
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "深圳市贝多分金融科技有限公司",
+    "company_name_short": "贝多分金融",
+    "position_name": "python开发工程师",
+    "workYear": "3-5年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "15k-25k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "金融,电商",
+    "positionAdvantage": "互联网金融",
+    "companyLabelList": "",
+    "district": "福田区",
+    "positionLables": "后端, 爬虫工程师, 爬虫架构",
+    "businessZones": "下沙, 车公庙",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, 爬虫工程师, 爬虫架构"
   },
   {
     "company_name": "深圳市中联创新自控系统有限公司",
@@ -585,370 +231,73 @@
     "financeStage": "未融资",
     "industryField": "移动互联网",
     "positionAdvantage": "五险一金,绩效奖金,弹性工作",
-    "companyLabelList": [],
+    "companyLabelList": "",
     "district": "福田区",
-    "positionLables": [
-      "后端"
-    ],
+    "positionLables": "后端",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端"
-    ]
+    "thirdType": "后端"
   },
   {
-    "company_name": "深圳市博悦科创科技有限公司",
-    "company_name_short": "博悦科创",
-    "position_name": "急聘中级python开发",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "10k-16k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网",
-    "positionAdvantage": "技术新,晋升快,福利待遇好,发展空间大",
-    "companyLabelList": [
-      "年底双薪",
-      "定期体检",
-      "绩效奖金",
-      "技能培训"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "达而观信息科技（上海）有限公司",
-    "company_name_short": "达观数据",
-    "position_name": "高级python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "20k-30k",
-    "city": "深圳",
-    "financeStage": "B轮",
-    "industryField": "人工智能",
-    "positionAdvantage": "人工智能,准独角兽,技术氛围浓,发展空间",
-    "companyLabelList": [
-      "AI人工智能",
-      "NLP",
-      "技术领先",
-      "市场口碑佳"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "企业服务",
-      "大数据",
-      "后端",
-      "Python",
-      "C++",
-      "机器学习"
-    ],
-    "businessZones": [
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "Python",
-      "C++",
-      "机器学习"
-    ]
-  },
-  {
-    "company_name": "深圳市易博天下科技有限公司",
-    "company_name_short": "易博天下",
-    "position_name": "Python开发工程师",
+    "company_name": "上海海万信息科技股份有限公司",
+    "company_name_short": "海万科技",
+    "position_name": "python",
     "workYear": "1-3年",
-    "education": "大专",
+    "education": "本科",
     "jobNature": "全职",
-    "salary": "13k-25k",
-    "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "移动互联网,消费生活",
-    "positionAdvantage": "平台好 高速增长 股票期权 创业团队",
-    "companyLabelList": [
-      "年底双薪",
-      "股票期权",
-      "带薪年假",
-      "创业公司范儿"
-    ],
-    "district": "南山区",
-    "positionLables": [],
-    "businessZones": [
-      "科技园",
-      "后海",
-      "深圳湾"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": []
-  },
-  {
-    "company_name": "亿达信息技术（深圳）有限公司",
-    "company_name_short": "YIDATEC",
-    "position_name": "python开发",
-    "workYear": "3-5年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "10k-15k",
+    "salary": "11k-20k",
     "city": "深圳",
     "financeStage": "不需要融资",
-    "industryField": "移动互联网,游戏",
-    "positionAdvantage": "五险一金 补充商业保险 年度体检",
-    "companyLabelList": [],
-    "district": "福田区",
-    "positionLables": [
-      "物流",
-      "工具软件",
-      "分布式",
-      "Python"
-    ],
-    "businessZones": [
-      "上沙",
-      "新洲",
-      "车公庙"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "分布式",
-      "Python"
-    ]
-  },
-  {
-    "company_name": "马上消费金融股份有限公司",
-    "company_name_short": "马上金融",
-    "position_name": "Python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-25k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "金融,移动互联网",
-    "positionAdvantage": "五险一金 带薪年假 定期培训 年终奖金",
-    "companyLabelList": [
-      "股票期权",
-      "年终分红",
-      "绩效奖金",
-      "带薪年假"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "后端",
-      "Python"
-    ],
-    "businessZones": [
-      "景田"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳市客路网络科技有限公司",
-    "company_name_short": "KLOOK 客路旅行",
-    "position_name": "高级Python工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "D轮及以上",
-    "industryField": "旅游",
-    "positionAdvantage": "国际化平台,环境舒适,好玩有趣",
-    "companyLabelList": [
-      "零食水果供应",
-      "带薪年假",
-      "绩效奖金",
-      "扁平管理"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "电商",
-      "Python"
-    ],
-    "businessZones": [
-      "车公庙",
-      "上沙",
-      "香蜜湖"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳前海联易融金融服务有限公司",
-    "company_name_short": "联易融linklogis",
-    "position_name": "Python开发工程师",
-    "workYear": "不限",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-28k",
-    "city": "深圳",
-    "financeStage": "C轮",
     "industryField": "移动互联网,金融",
-    "positionAdvantage": "六险一金;弹性办公;福利满满;风口行业",
-    "companyLabelList": [
-      "带薪年假",
-      "定期体检",
-      "六险一金",
-      "婚育礼金"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "大数据",
-      "金融"
-    ],
-    "businessZones": [
-      "大冲",
-      "科技园"
-    ],
+    "positionAdvantage": "五险一金 节日福利 双休",
+    "companyLabelList": "",
+    "district": "福田区",
+    "positionLables": "银行, 互联网金融",
+    "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": []
+    "thirdType": "Python"
   },
   {
-    "company_name": "北京市商汤科技开发有限公司",
-    "company_name_short": "商汤科技",
+    "company_name": "深圳市杉岩数据技术有限公司",
+    "company_name_short": "杉岩数据",
+    "position_name": "Python开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-20k",
+    "city": "深圳",
+    "financeStage": "B轮",
+    "industryField": "企业服务,数据服务",
+    "positionAdvantage": "扁平化管理,发展空间大",
+    "companyLabelList": "股票期权, 扁平管理, 领导好, 五险一金",
+    "district": "南山区",
+    "positionLables": "云计算, Java, Python, 云计算",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Java, Python, 云计算"
+  },
+  {
+    "company_name": "衍生（深圳）投资基金管理有限公司",
+    "company_name_short": "衍生投资",
     "position_name": "python开发工程师",
     "workYear": "3-5年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "20k-40k",
+    "salary": "10k-20k",
     "city": "深圳",
-    "financeStage": "C轮",
-    "industryField": "人工智能",
-    "positionAdvantage": "餐补，AI独角兽",
-    "companyLabelList": [
-      "五险一金",
-      "弹性工作",
-      "丰盛三餐",
-      "发展空间大"
-    ],
+    "financeStage": "天使轮",
+    "industryField": "企业服务",
+    "positionAdvantage": "周末双休 免费咖啡 团队成长",
+    "companyLabelList": "",
     "district": "南山区",
-    "positionLables": [
-      "服务器端",
-      "docker"
-    ],
-    "businessZones": null,
+    "positionLables": "Python, MySQL, Linux/Unix",
+    "businessZones": "科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "服务器端",
-      "docker"
-    ]
-  },
-  {
-    "company_name": "深圳市浩海云科技有限公司",
-    "company_name_short": "浩海云科技",
-    "position_name": "python开发工程师",
-    "workYear": "1-3年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "12k-20k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "信息安全,硬件",
-    "positionAdvantage": "福利待遇、发展空间、项目奖励、团队期权",
-    "companyLabelList": [
-      "专项奖金",
-      "股票期权",
-      "年终分红",
-      "绩效奖金"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "信息安全",
-      "Python"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "弘量科技（深圳）有限公司",
-    "company_name_short": "弘量科技（深圳）有限公司",
-    "position_name": "Python工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "B轮",
-    "industryField": "金融",
-    "positionAdvantage": "互联网金融,智能投顾,弹性工作",
-    "companyLabelList": [
-      "优秀同事",
-      "股票期权",
-      "年终分红",
-      "带薪年假"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "后端"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端"
-    ]
-  },
-  {
-    "company_name": "乐格商业咨询（深圳）有限公司",
-    "company_name_short": "乐格信息",
-    "position_name": "高级python",
-    "workYear": "5-10年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "20k-35k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "企业服务,数据服务",
-    "positionAdvantage": "外企, 个人成长，领导nice",
-    "companyLabelList": [
-      "节日礼物",
-      "技能培训",
-      "职业发展预期",
-      "岗位晋升"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "后端",
-      "GO",
-      "Python"
-    ],
-    "businessZones": [
-      "下沙",
-      "车公庙"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "GO",
-      "Python"
-    ]
+    "thirdType": "Python, MySQL, Linux/Unix"
   },
   {
     "company_name": "深圳小步网络科技有限公司",
@@ -962,365 +311,173 @@
     "financeStage": "B轮",
     "industryField": "移动互联网",
     "positionAdvantage": "海外项目,发展空间大,环境宽松,大牛多",
-    "companyLabelList": [
-      "股票期权",
-      "定期体检",
-      "下午茶",
-      "年度旅游"
-    ],
+    "companyLabelList": "股票期权, 定期体检, 下午茶, 年度旅游",
     "district": "宝安区",
-    "positionLables": [
-      "Java",
-      "PHP",
-      "Python"
-    ],
-    "businessZones": [
-      "西乡",
-      "新安"
-    ],
+    "positionLables": "Java, PHP, Python",
+    "businessZones": "西乡, 新安",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Java",
-      "PHP",
-      "Python"
-    ]
+    "thirdType": "Java, PHP, Python"
   },
   {
-    "company_name": "深圳市微课科技有限公司",
-    "company_name_short": "荔枝微课",
-    "position_name": "初级python开发工程师",
+    "company_name": "深圳市客路网络科技有限公司",
+    "company_name_short": "KLOOK 客路旅行",
+    "position_name": "Python工程师",
     "workYear": "1-3年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "10k-15k",
+    "salary": "10k-20k",
     "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "移动互联网,教育",
-    "positionAdvantage": "团队年轻，专人带领",
-    "companyLabelList": [
-      "美女多",
-      "弹性工作",
-      "扁平管理",
-      "午餐补助"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python",
-      "Linux/Unix"
-    ],
-    "businessZones": [
-      "深圳湾",
-      "后海",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "Linux/Unix"
-    ]
-  },
-  {
-    "company_name": "厦门美图之家科技有限公司",
-    "company_name_short": "美图公司",
-    "position_name": "初/中级Python开发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "12k-22k",
-    "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "硬件",
-    "positionAdvantage": "弹性工作,海外团队,海外市场",
-    "companyLabelList": [
-      "节日礼物",
-      "与大牛共事",
-      "福利健全",
-      "五险一金"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python",
-      "数据库",
-      "Hadoop",
-      "Scala"
-    ],
-    "businessZones": [
-      "大冲",
-      "白石洲",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "数据库",
-      "Hadoop",
-      "Scala"
-    ]
-  },
-  {
-    "company_name": "深圳贝尔创意科教有限公司",
-    "company_name_short": "贝尔创意科教",
-    "position_name": "高级Python开发工程师(J10579)",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-25k",
-    "city": "深圳",
-    "financeStage": "B轮",
-    "industryField": "其他",
-    "positionAdvantage": "AI教育独角兽",
-    "companyLabelList": [
-      "专项奖金",
-      "绩效奖金",
-      "定期体检",
-      "节日福利"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python"
-    ],
+    "financeStage": "D轮及以上",
+    "industryField": "旅游",
+    "positionAdvantage": "国际化平台,环境舒适,好玩有趣",
+    "companyLabelList": "零食水果供应, 带薪年假, 绩效奖金, 扁平管理",
+    "district": "福田区",
+    "positionLables": "电商, 后端, Python",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
+    "thirdType": "后端, Python"
   },
   {
-    "company_name": "风变科技（深圳）有限公司",
-    "company_name_short": "风变科技（深圳）有限公司",
-    "position_name": "Python工程师（运维方向）",
+    "company_name": "深圳市博悦科创科技有限公司",
+    "company_name_short": "博悦科创",
+    "position_name": "急聘中级python开发",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-16k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网",
+    "positionAdvantage": "技术新,晋升快,福利待遇好,发展空间大",
+    "companyLabelList": "年底双薪, 定期体检, 绩效奖金, 技能培训",
+    "district": "南山区",
+    "positionLables": "Python",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "深圳万威国际科技有限公司",
+    "company_name_short": "万威国际",
+    "position_name": "python开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-20k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,金融",
+    "positionAdvantage": "平台大,国际化,奖金高,福利好",
+    "companyLabelList": "绩效奖金, 带薪年假, 午餐补助",
+    "district": "南山区",
+    "positionLables": "互联网金融, Python, 爬虫工程师, 数据挖掘",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python, 爬虫工程师, 数据挖掘"
+  },
+  {
+    "company_name": "深圳市一面网络技术有限公司",
+    "company_name_short": "一面数据",
+    "position_name": "Python 工程师（产品研发）",
     "workYear": "1-3年",
     "education": "本科",
     "jobNature": "全职",
     "salary": "10k-20k",
     "city": "深圳",
     "financeStage": "A轮",
-    "industryField": "移动互联网,教育",
-    "positionAdvantage": "百万级用户,数据驱动,科技前沿,高效工作",
-    "companyLabelList": [
-      "专项奖金",
-      "带薪年假",
-      "定期体检",
-      "六险一金"
-    ],
+    "industryField": "移动互联网,数据服务",
+    "positionAdvantage": "大数据人工智能；名校系大牛；技术氛围浓",
+    "companyLabelList": "技能培训, 海归精英团队, Geek分享, 绩效奖金",
     "district": "南山区",
-    "positionLables": [
-      "Linux",
-      "运维"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "运维",
-    "thirdType": [
-      "Linux",
-      "运维"
-    ]
-  },
-  {
-    "company_name": "腾讯科技（深圳）有限公司",
-    "company_name_short": "腾讯",
-    "position_name": "python开发工程师",
-    "workYear": "不限",
-    "education": "不限",
-    "jobNature": "全职",
-    "salary": "20k-40k",
-    "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "社交",
-    "positionAdvantage": "大厂经验，广阔的发展平台",
-    "companyLabelList": [
-      "免费班车",
-      "成长空间",
-      "年度旅游",
-      "岗位晋升"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "移动互联网",
-      "Linux/Unix",
-      "C++",
-      "Javascript"
-    ],
+    "positionLables": "大数据",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Linux/Unix",
-      "C++",
-      "Javascript"
-    ]
+    "thirdType": ""
   },
   {
-    "company_name": "深圳市比一比网络科技有限公司",
-    "company_name_short": "深圳市比一比网络科技有限公司",
-    "position_name": "python(逆向)工程师",
+    "company_name": "深圳市乐易网络股份有限公司",
+    "company_name_short": "乐易网络",
+    "position_name": "python开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "8k-16k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "移动互联网,游戏",
+    "positionAdvantage": "丰厚年终，两次旅游，两次调薪",
+    "companyLabelList": "技术大牛, 两次年度旅游, 福利倍儿好, 年终奖丰厚",
+    "district": "南山区",
+    "positionLables": "Python",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "深圳市易博天下科技有限公司",
+    "company_name_short": "易博天下",
+    "position_name": "Python开发工程师",
+    "workYear": "1-3年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "13k-25k",
+    "city": "深圳",
+    "financeStage": "上市公司",
+    "industryField": "移动互联网,消费生活",
+    "positionAdvantage": "平台好 高速增长 股票期权 创业团队",
+    "companyLabelList": "年底双薪, 股票期权, 带薪年假, 创业公司范儿",
+    "district": "南山区",
+    "positionLables": "",
+    "businessZones": "科技园, 后海, 深圳湾",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": ""
+  },
+  {
+    "company_name": "达而观信息科技（上海）有限公司",
+    "company_name_short": "达观数据",
+    "position_name": "高级python开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "20k-30k",
+    "city": "深圳",
+    "financeStage": "B轮",
+    "industryField": "人工智能",
+    "positionAdvantage": "人工智能,准独角兽,技术氛围浓,发展空间",
+    "companyLabelList": "AI人工智能, NLP, 技术领先, 市场口碑佳",
+    "district": "南山区",
+    "positionLables": "企业服务, 大数据, 后端, Python, C++, 机器学习",
+    "businessZones": "科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, Python, C++, 机器学习"
+  },
+  {
+    "company_name": "亿达信息技术（深圳）有限公司",
+    "company_name_short": "YIDATEC",
+    "position_name": "python开发",
     "workYear": "3-5年",
     "education": "大专",
     "jobNature": "全职",
-    "salary": "10k-20k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "电商,数据服务",
-    "positionAdvantage": "双休,五险一金,大数据,氛围好",
-    "companyLabelList": [
-      "技能培训",
-      "股票期权",
-      "带薪年假",
-      "岗位晋升"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "大数据",
-      "Python"
-    ],
-    "businessZones": [
-      "大冲",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳市微赢世纪网络科技有限公司",
-    "company_name_short": "微赢世纪",
-    "position_name": "python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "天使轮",
-    "industryField": "人工智能,工具",
-    "positionAdvantage": "连续创业者领衔自由工作气氛",
-    "companyLabelList": [
-      "大牛带队",
-      "技能培训",
-      "股票期权",
-      "扁平管理"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "服务器端",
-      "Python",
-      "系统架构"
-    ],
-    "businessZones": [
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "服务器端",
-      "Python",
-      "系统架构"
-    ]
-  },
-  {
-    "company_name": "深圳市长亮科技股份有限公司",
-    "company_name_short": "长亮科技",
-    "position_name": "python开发工程师（运维开发）",
-    "workYear": "不限",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "企业服务",
-    "positionAdvantage": "技术大牛,氛围好,技术前沿",
-    "companyLabelList": [
-      "五险一金",
-      "通讯津贴",
-      "带薪年假",
-      "定期体检"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "云计算",
-      "Python",
-      "云计算"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "云计算"
-    ]
-  },
-  {
-    "company_name": "深圳市智象科技有限公司",
-    "company_name_short": "智象科技",
-    "position_name": "python开发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
     "salary": "10k-15k",
     "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "移动互联网,企业服务",
-    "positionAdvantage": "带薪休假；年底双薪；项目奖金；出差补贴",
-    "companyLabelList": [
-      "腾讯大牛",
-      "项目奖金",
-      "带薪年假",
-      "年底双薪"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "后端",
-      "服务器端",
-      "Linux/Unix"
-    ],
-    "businessZones": [
-      "科技园",
-      "前海",
-      "南头"
-    ],
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,游戏",
+    "positionAdvantage": "五险一金 补充商业保险 年度体检",
+    "companyLabelList": "",
+    "district": "福田区",
+    "positionLables": "物流, 工具软件, 分布式, Python",
+    "businessZones": "上沙, 新洲, 车公庙",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "服务器端",
-      "Linux/Unix"
-    ]
-  },
-  {
-    "company_name": "嘉联支付有限公司",
-    "company_name_short": "嘉联支付",
-    "position_name": "Python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-25k",
-    "city": "深圳",
-    "financeStage": "未融资",
-    "industryField": "金融,移动互联网",
-    "positionAdvantage": "福利好；氛围好；领导好",
-    "companyLabelList": [
-      "年底双薪",
-      "绩效奖金",
-      "定期体检",
-      "帅哥多"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": [
-      "深圳湾"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
+    "thirdType": "分布式, Python"
   },
   {
     "company_name": "广东盛迪嘉电子商务股份有限公司",
@@ -1334,59 +491,53 @@
     "financeStage": "不需要融资",
     "industryField": "移动互联网,金融",
     "positionAdvantage": "高薪酬、高福利、职业生涯规划",
-    "companyLabelList": [
-      "年底双薪",
-      "带薪年假",
-      "绩效奖金",
-      "交通补助"
-    ],
+    "companyLabelList": "年底双薪, 带薪年假, 绩效奖金, 交通补助",
     "district": "南山区",
-    "positionLables": [
-      "大数据",
-      "自动化"
-    ],
-    "businessZones": [
-      "科技园"
-    ],
+    "positionLables": "大数据, 自动化",
+    "businessZones": "科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "自动化"
-    ]
+    "thirdType": "自动化"
   },
   {
-    "company_name": "深圳知云网络科技有限公司",
-    "company_name_short": "深圳知云网络科技有限公司",
-    "position_name": "python工程师",
-    "workYear": "5-10年",
-    "education": "不限",
+    "company_name": "深圳前海联易融金融服务有限公司",
+    "company_name_short": "联易融linklogis",
+    "position_name": "Python开发工程师",
+    "workYear": "不限",
+    "education": "本科",
     "jobNature": "全职",
-    "salary": "30k-40k",
+    "salary": "15k-28k",
     "city": "深圳",
-    "financeStage": "未融资",
-    "industryField": "企业服务",
-    "positionAdvantage": "集团背景,晋升空间大,15薪,集团股权",
-    "companyLabelList": [
-      "专项奖金",
-      "带薪年假",
-      "弹性工作",
-      "扁平管理"
-    ],
+    "financeStage": "C轮",
+    "industryField": "移动互联网,金融",
+    "positionAdvantage": "六险一金;弹性办公;福利满满;风口行业",
+    "companyLabelList": "带薪年假, 定期体检, 六险一金, 婚育礼金",
     "district": "南山区",
-    "positionLables": [
-      "后端",
-      "Python"
-    ],
-    "businessZones": [
-      "西丽",
-      "科技园"
-    ],
+    "positionLables": "大数据, 金融",
+    "businessZones": "大冲, 科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "Python"
-    ]
+    "thirdType": ""
+  },
+  {
+    "company_name": "马上消费金融股份有限公司",
+    "company_name_short": "马上金融",
+    "position_name": "Python开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-25k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "金融,移动互联网",
+    "positionAdvantage": "五险一金 带薪年假 定期培训 年终奖金",
+    "companyLabelList": "股票期权, 年终分红, 绩效奖金, 带薪年假",
+    "district": "福田区",
+    "positionLables": "后端, Python",
+    "businessZones": "景田",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, Python"
   },
   {
     "company_name": "深圳市幸福商城科技股份有限公司",
@@ -1400,25 +551,293 @@
     "financeStage": "B轮",
     "industryField": "移动互联网,消费生活",
     "positionAdvantage": "晋升空间、主题活动、下午茶、运动俱乐部",
-    "companyLabelList": [
-      "带薪年假",
-      "下午茶蛋糕",
-      "季度团建",
-      "领导nice"
-    ],
+    "companyLabelList": "带薪年假, 下午茶蛋糕, 季度团建, 领导nice",
     "district": "南山区",
-    "positionLables": [
-      "电商",
-      "数据挖掘"
-    ],
-    "businessZones": [
-      "西丽"
-    ],
+    "positionLables": "电商, 数据挖掘",
+    "businessZones": "西丽",
     "firstType": "开发|测试|运维类",
     "secondType": "数据开发",
-    "thirdType": [
-      "数据挖掘"
-    ]
+    "thirdType": "数据挖掘"
+  },
+  {
+    "company_name": "深圳市浩海云科技有限公司",
+    "company_name_short": "浩海云科技",
+    "position_name": "python开发工程师",
+    "workYear": "1-3年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "12k-20k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "信息安全,硬件",
+    "positionAdvantage": "福利待遇、发展空间、项目奖励、团队期权",
+    "companyLabelList": "专项奖金, 股票期权, 年终分红, 绩效奖金",
+    "district": "南山区",
+    "positionLables": "信息安全, Python",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "厦门美图之家科技有限公司",
+    "company_name_short": "美图公司",
+    "position_name": "初/中级Python开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "12k-22k",
+    "city": "深圳",
+    "financeStage": "上市公司",
+    "industryField": "硬件",
+    "positionAdvantage": "弹性工作,海外团队,海外市场",
+    "companyLabelList": "节日礼物, 与大牛共事, 福利健全, 五险一金",
+    "district": "南山区",
+    "positionLables": "Python, 数据库, Hadoop, Scala",
+    "businessZones": "大冲, 白石洲, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python, 数据库, Hadoop, Scala"
+  },
+  {
+    "company_name": "深圳小步网络科技有限公司",
+    "company_name_short": "小步网络",
+    "position_name": "Python后台开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-30k",
+    "city": "深圳",
+    "financeStage": "B轮",
+    "industryField": "移动互联网",
+    "positionAdvantage": "待遇优厚,成长空间大,弹性上班,下午茶",
+    "companyLabelList": "股票期权, 定期体检, 下午茶, 年度旅游",
+    "district": "宝安区",
+    "positionLables": "服务器端, Java, PHP, Python",
+    "businessZones": "西乡, 新安",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "服务器端, Java, PHP, Python"
+  },
+  {
+    "company_name": "深圳市微课科技有限公司",
+    "company_name_short": "荔枝微课",
+    "position_name": "初级python开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-15k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "移动互联网,教育",
+    "positionAdvantage": "团队年轻，专人带领",
+    "companyLabelList": "美女多, 弹性工作, 扁平管理, 午餐补助",
+    "district": "南山区",
+    "positionLables": "Python, Linux/Unix",
+    "businessZones": "深圳湾, 后海, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python, Linux/Unix"
+  },
+  {
+    "company_name": "乐格商业咨询（深圳）有限公司",
+    "company_name_short": "乐格信息",
+    "position_name": "高级python",
+    "workYear": "5-10年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "20k-35k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "企业服务,数据服务",
+    "positionAdvantage": "外企, 个人成长，领导nice",
+    "companyLabelList": "节日礼物, 技能培训, 职业发展预期, 岗位晋升",
+    "district": "福田区",
+    "positionLables": "后端, GO, Python",
+    "businessZones": "下沙, 车公庙",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, GO, Python"
+  },
+  {
+    "company_name": "弘量科技（深圳）有限公司",
+    "company_name_short": "弘量科技（深圳）有限公司",
+    "position_name": "Python工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-30k",
+    "city": "深圳",
+    "financeStage": "B轮",
+    "industryField": "金融",
+    "positionAdvantage": "互联网金融,智能投顾,弹性工作",
+    "companyLabelList": "优秀同事, 股票期权, 年终分红, 带薪年假",
+    "district": "南山区",
+    "positionLables": "后端",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端"
+  },
+  {
+    "company_name": "北京市商汤科技开发有限公司",
+    "company_name_short": "商汤科技",
+    "position_name": "python开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "20k-40k",
+    "city": "深圳",
+    "financeStage": "C轮",
+    "industryField": "人工智能",
+    "positionAdvantage": "餐补，AI独角兽",
+    "companyLabelList": "五险一金, 弹性工作, 丰盛三餐, 发展空间大",
+    "district": "南山区",
+    "positionLables": "服务器端, docker",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "服务器端, docker"
+  },
+  {
+    "company_name": "嘉联支付有限公司",
+    "company_name_short": "嘉联支付",
+    "position_name": "Python开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-25k",
+    "city": "深圳",
+    "financeStage": "未融资",
+    "industryField": "金融,移动互联网",
+    "positionAdvantage": "福利好；氛围好；领导好",
+    "companyLabelList": "年底双薪, 绩效奖金, 定期体检, 帅哥多",
+    "district": "南山区",
+    "positionLables": "Python",
+    "businessZones": "深圳湾",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "亿达信息技术（深圳）有限公司",
+    "company_name_short": "YIDATEC",
+    "position_name": "python",
+    "workYear": "5-10年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-20k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,游戏",
+    "positionAdvantage": "六险一金,双休，免费体检",
+    "companyLabelList": "",
+    "district": "南山区",
+    "positionLables": "后端",
+    "businessZones": "科技园, 南油",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端"
+  },
+  {
+    "company_name": "腾讯科技（深圳）有限公司",
+    "company_name_short": "腾讯",
+    "position_name": "python开发工程师",
+    "workYear": "不限",
+    "education": "不限",
+    "jobNature": "全职",
+    "salary": "20k-40k",
+    "city": "深圳",
+    "financeStage": "上市公司",
+    "industryField": "社交",
+    "positionAdvantage": "大厂经验，广阔的发展平台",
+    "companyLabelList": "免费班车, 成长空间, 年度旅游, 岗位晋升",
+    "district": "南山区",
+    "positionLables": "移动互联网, Linux/Unix, C++, Javascript",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Linux/Unix, C++, Javascript"
+  },
+  {
+    "company_name": "深圳市微赢世纪网络科技有限公司",
+    "company_name_short": "微赢世纪",
+    "position_name": "python开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-30k",
+    "city": "深圳",
+    "financeStage": "天使轮",
+    "industryField": "人工智能,工具",
+    "positionAdvantage": "连续创业者领衔自由工作气氛",
+    "companyLabelList": "大牛带队, 技能培训, 股票期权, 扁平管理",
+    "district": "南山区",
+    "positionLables": "服务器端, Python, 系统架构",
+    "businessZones": "科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "服务器端, Python, 系统架构"
+  },
+  {
+    "company_name": "深圳市比一比网络科技有限公司",
+    "company_name_short": "深圳市比一比网络科技有限公司",
+    "position_name": "python(逆向)工程师",
+    "workYear": "3-5年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "10k-20k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "电商,数据服务",
+    "positionAdvantage": "双休,五险一金,大数据,氛围好",
+    "companyLabelList": "技能培训, 股票期权, 带薪年假, 岗位晋升",
+    "district": "南山区",
+    "positionLables": "大数据, Python",
+    "businessZones": "大冲, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "深圳市长亮科技股份有限公司",
+    "company_name_short": "长亮科技",
+    "position_name": "python开发工程师（运维开发）",
+    "workYear": "不限",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-30k",
+    "city": "深圳",
+    "financeStage": "上市公司",
+    "industryField": "企业服务",
+    "positionAdvantage": "技术大牛,氛围好,技术前沿",
+    "companyLabelList": "五险一金, 通讯津贴, 带薪年假, 定期体检",
+    "district": "南山区",
+    "positionLables": "云计算, Python, 云计算",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python, 云计算"
+  },
+  {
+    "company_name": "深圳市智象科技有限公司",
+    "company_name_short": "智象科技",
+    "position_name": "python开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-15k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "移动互联网,企业服务",
+    "positionAdvantage": "带薪休假；年底双薪；项目奖金；出差补贴",
+    "companyLabelList": "腾讯大牛, 项目奖金, 带薪年假, 年底双薪",
+    "district": "南山区",
+    "positionLables": "后端, 服务器端, Linux/Unix",
+    "businessZones": "科技园, 前海, 南头",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, 服务器端, Linux/Unix"
   },
   {
     "company_name": "深圳市博悦科创科技有限公司",
@@ -1432,25 +851,53 @@
     "financeStage": "不需要融资",
     "industryField": "移动互联网",
     "positionAdvantage": "五险一金,绩效奖金,定期体检,员工旅游",
-    "companyLabelList": [
-      "年底双薪",
-      "定期体检",
-      "绩效奖金",
-      "技能培训"
-    ],
+    "companyLabelList": "年底双薪, 定期体检, 绩效奖金, 技能培训",
     "district": "南山区",
-    "positionLables": [
-      "MySQL"
-    ],
-    "businessZones": [
-      "南油",
-      "科技园"
-    ],
+    "positionLables": "MySQL",
+    "businessZones": "南油, 科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "MySQL"
-    ]
+    "thirdType": "MySQL"
+  },
+  {
+    "company_name": "风变科技（深圳）有限公司",
+    "company_name_short": "风变科技（深圳）有限公司",
+    "position_name": "Python工程师（运维方向）",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-20k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "移动互联网,教育",
+    "positionAdvantage": "百万级用户,数据驱动,科技前沿,高效工作",
+    "companyLabelList": "专项奖金, 带薪年假, 定期体检, 六险一金",
+    "district": "南山区",
+    "positionLables": "Linux, 运维",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "运维",
+    "thirdType": "Linux, 运维"
+  },
+  {
+    "company_name": "深圳贝尔创意科教有限公司",
+    "company_name_short": "贝尔创意科教",
+    "position_name": "高级Python开发工程师(J10579)",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-25k",
+    "city": "深圳",
+    "financeStage": "B轮",
+    "industryField": "其他",
+    "positionAdvantage": "AI教育独角兽",
+    "companyLabelList": "专项奖金, 绩效奖金, 定期体检, 节日福利",
+    "district": "南山区",
+    "positionLables": "Python",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
   },
   {
     "company_name": "深圳小步网络科技有限公司",
@@ -1464,28 +911,13 @@
     "financeStage": "B轮",
     "industryField": "移动互联网",
     "positionAdvantage": "海外项目,发展空间大,环境宽松,大牛多",
-    "companyLabelList": [
-      "股票期权",
-      "定期体检",
-      "下午茶",
-      "年度旅游"
-    ],
+    "companyLabelList": "股票期权, 定期体检, 下午茶, 年度旅游",
     "district": "宝安区",
-    "positionLables": [
-      "移动互联网",
-      "后端",
-      "Python"
-    ],
-    "businessZones": [
-      "西乡",
-      "新安"
-    ],
+    "positionLables": "移动互联网, 后端, Python",
+    "businessZones": "西乡, 新安",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "Python"
-    ]
+    "thirdType": "后端, Python"
   },
   {
     "company_name": "深圳市比一比网络科技有限公司",
@@ -1499,28 +931,13 @@
     "financeStage": "A轮",
     "industryField": "电商,数据服务",
     "positionAdvantage": "大数据 薪资待遇高 老板格局高",
-    "companyLabelList": [
-      "技能培训",
-      "股票期权",
-      "带薪年假",
-      "岗位晋升"
-    ],
+    "companyLabelList": "技能培训, 股票期权, 带薪年假, 岗位晋升",
     "district": "南山区",
-    "positionLables": [
-      "机器学习",
-      "Python",
-      "JS"
-    ],
-    "businessZones": [
-      "科技园"
-    ],
+    "positionLables": "机器学习, Python, JS",
+    "businessZones": "科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "机器学习",
-      "Python",
-      "JS"
-    ]
+    "thirdType": "机器学习, Python, JS"
   },
   {
     "company_name": "富途网络科技（深圳）有限公司",
@@ -1534,339 +951,13 @@
     "financeStage": "上市公司",
     "industryField": "金融",
     "positionAdvantage": "腾讯系团队,扁平管理,六险一金",
-    "companyLabelList": [
-      "年底双薪",
-      "腾讯系",
-      "互联网金融",
-      "年度体检"
-    ],
+    "companyLabelList": "年底双薪, 腾讯系, 互联网金融, 年度体检",
     "district": "南山区",
-    "positionLables": [
-      "DevOps"
-    ],
-    "businessZones": [
-      "科技园",
-      "西丽",
-      "大冲"
-    ],
+    "positionLables": "DevOps",
+    "businessZones": "科技园, 西丽, 大冲",
     "firstType": "开发|测试|运维类",
     "secondType": "运维",
-    "thirdType": [
-      "DevOps"
-    ]
-  },
-  {
-    "company_name": "深圳云天励飞技术有限公司",
-    "company_name_short": "云天励飞",
-    "position_name": "Python开发工程师(J10047)",
-    "workYear": "3-5年",
-    "education": "不限",
-    "jobNature": "全职",
-    "salary": "15k-25k",
-    "city": "深圳",
-    "financeStage": "B轮",
-    "industryField": "人工智能",
-    "positionAdvantage": "人工智能",
-    "companyLabelList": [
-      "节日礼物",
-      "带薪年假",
-      "年度旅游",
-      "开放务实"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "后端"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端"
-    ]
-  },
-  {
-    "company_name": "深圳市文德数慧科技开发有限责任公司",
-    "company_name_short": "文德数慧",
-    "position_name": "python开发工程师",
-    "workYear": "1-3年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "15k-20k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "企业服务",
-    "positionAdvantage": "公司招聘岗位比较多样，提升个人综合能力",
-    "companyLabelList": [
-      "年底双薪",
-      "专项奖金",
-      "年终分红",
-      "带薪年假"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": [
-      "西丽",
-      "大冲",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "平安科技（深圳）有限公司",
-    "company_name_short": "平安科技",
-    "position_name": "112145-资深容器python开发",
-    "workYear": "5-10年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "金融",
-    "positionAdvantage": "五险一金,绩效奖金",
-    "companyLabelList": [
-      "六险一金",
-      "扁平化管理",
-      "丰厚年终",
-      "丰富技术交流"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "云计算",
-      "Python",
-      "云计算",
-      "docker"
-    ],
-    "businessZones": [
-      "科技园",
-      "南山医院",
-      "大冲"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "云计算",
-      "docker"
-    ]
-  },
-  {
-    "company_name": "亿达信息技术（深圳）有限公司",
-    "company_name_short": "YIDATEC",
-    "position_name": "python开发",
-    "workYear": "3-5年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "12k-18k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网,游戏",
-    "positionAdvantage": "技术大牛",
-    "companyLabelList": [],
-    "district": "宝安区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": [
-      "新安"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
-  },
-  {
-    "company_name": "微诺（深圳）科技有限公司",
-    "company_name_short": "微诺",
-    "position_name": "Python/Golang开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网",
-    "positionAdvantage": "交通便利,团队活泼,薪资优厚,腾讯系",
-    "companyLabelList": [
-      "带薪年假",
-      "定期体检",
-      "扁平管理"
-    ],
-    "district": "宝安区",
-    "positionLables": [
-      "金融",
-      "Python",
-      "Golang"
-    ],
-    "businessZones": [
-      "新安"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python",
-      "Golang"
-    ]
-  },
-  {
-    "company_name": "信迪网络资讯有限公司",
-    "company_name_short": "信迪网络资讯有限公司",
-    "position_name": "python开发工程师",
-    "workYear": "1-3年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "10k-16k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网,社交",
-    "positionAdvantage": "项目前景好，团队氛围棒",
-    "companyLabelList": [
-      "年底双薪",
-      "带薪年假",
-      "弹性工作",
-      "领导好"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "后端",
-      "中间件",
-      "Python",
-      "数据库"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "中间件",
-      "Python",
-      "数据库"
-    ]
-  },
-  {
-    "company_name": "深圳松茂科技有限公司",
-    "company_name_short": "松茂科技",
-    "position_name": "初级python开发工程师",
-    "workYear": "1-3年",
-    "education": "大专",
-    "jobNature": "全职",
-    "salary": "7k-10k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "移动互联网",
-    "positionAdvantage": "5天7小时，年终奖，境外旅游，技术分享",
-    "companyLabelList": [
-      "朝十晚六",
-      "周末双休",
-      "年轻团队",
-      "扁平管理"
-    ],
-    "district": "宝安区",
-    "positionLables": [
-      "PHP",
-      "Python"
-    ],
-    "businessZones": [
-      "新安"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "PHP",
-      "Python"
-    ]
-  },
-  {
-    "company_name": "深圳安巽科技有限公司",
-    "company_name_short": "网络安全服务商",
-    "position_name": "python开发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "10k-20k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "信息安全",
-    "positionAdvantage": "公司前景好,发展空间大,福利待遇好",
-    "companyLabelList": [
-      "年底双薪",
-      "绩效奖金",
-      "带薪年假",
-      "交通补助"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "信息安全"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": []
-  },
-  {
-    "company_name": "深圳呗佬科技有限公司",
-    "company_name_short": "Bello",
-    "position_name": "python开发工程师",
-    "workYear": "3-5年",
-    "education": "不限",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "企业服务,人工智能",
-    "positionAdvantage": "不打卡、发展空间大",
-    "companyLabelList": [],
-    "district": "南山区",
-    "positionLables": [
-      "后端"
-    ],
-    "businessZones": [
-      "南油",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "后端"
-    ]
-  },
-  {
-    "company_name": "深圳佑驾创新科技有限公司",
-    "company_name_short": "MINIEYE",
-    "position_name": "Python 客户端开发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "硬件,其他",
-    "positionAdvantage": "创新产品,牛人密集,从0到1,项目奖金",
-    "companyLabelList": [
-      "无人驾驶",
-      "国际标准",
-      "车厂合作",
-      "海归团队"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "客户端"
-    ],
-    "businessZones": [
-      "大冲",
-      "科技园"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "客户端"
-    ]
+    "thirdType": "DevOps"
   },
   {
     "company_name": "深圳市易博天下科技有限公司",
@@ -1880,241 +971,213 @@
     "financeStage": "上市公司",
     "industryField": "移动互联网,消费生活",
     "positionAdvantage": "平台好，上市公司，周末双休，高速增长",
-    "companyLabelList": [
-      "年底双薪",
-      "股票期权",
-      "带薪年假",
-      "创业公司范儿"
-    ],
+    "companyLabelList": "年底双薪, 股票期权, 带薪年假, 创业公司范儿",
     "district": "南山区",
-    "positionLables": [
-      "企业服务",
-      "大数据",
-      "后端",
-      "服务器端"
-    ],
+    "positionLables": "企业服务, 大数据, 后端, 服务器端",
     "businessZones": null,
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "服务器端"
-    ]
+    "thirdType": "后端, 服务器端"
   },
   {
-    "company_name": "北京国双科技有限公司",
-    "company_name_short": "Gridsum 国双",
-    "position_name": "高级Python研发工程师",
-    "workYear": "1-3年",
-    "education": "本科",
+    "company_name": "亿达信息技术（深圳）有限公司",
+    "company_name_short": "YIDATEC",
+    "position_name": "python开发",
+    "workYear": "3-5年",
+    "education": "大专",
     "jobNature": "全职",
-    "salary": "13k-25k",
+    "salary": "12k-18k",
     "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "数据服务,企业服务",
-    "positionAdvantage": "上市公司、团队管理、发挥空间、福利优厚",
-    "companyLabelList": [
-      "节日礼物",
-      "年底双薪",
-      "带薪年假",
-      "午餐补助"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "云计算",
-      "大数据",
-      "平台",
-      "Python",
-      "后端"
-    ],
-    "businessZones": [
-      "莲花三村",
-      "莲花二村",
-      "岗厦"
-    ],
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,游戏",
+    "positionAdvantage": "技术大牛",
+    "companyLabelList": "",
+    "district": "宝安区",
+    "positionLables": "Python",
+    "businessZones": "新安",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "平台",
-      "Python",
-      "后端"
-    ]
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "信迪网络资讯有限公司",
+    "company_name_short": "信迪网络资讯有限公司",
+    "position_name": "python开发工程师",
+    "workYear": "1-3年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "10k-16k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,社交",
+    "positionAdvantage": "项目前景好，团队氛围棒",
+    "companyLabelList": "年底双薪, 带薪年假, 弹性工作, 领导好",
+    "district": "南山区",
+    "positionLables": "后端, 中间件, Python, 数据库",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, 中间件, Python, 数据库"
+  },
+  {
+    "company_name": "深圳知云网络科技有限公司",
+    "company_name_short": "深圳知云网络科技有限公司",
+    "position_name": "python工程师",
+    "workYear": "5-10年",
+    "education": "不限",
+    "jobNature": "全职",
+    "salary": "30k-40k",
+    "city": "深圳",
+    "financeStage": "未融资",
+    "industryField": "企业服务",
+    "positionAdvantage": "集团背景,晋升空间大,15薪,集团股权",
+    "companyLabelList": "专项奖金, 带薪年假, 弹性工作, 扁平管理",
+    "district": "南山区",
+    "positionLables": "后端, Python",
+    "businessZones": "西丽, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, Python"
+  },
+  {
+    "company_name": "深圳云天励飞技术有限公司",
+    "company_name_short": "云天励飞",
+    "position_name": "Python开发工程师(J10047)",
+    "workYear": "3-5年",
+    "education": "不限",
+    "jobNature": "全职",
+    "salary": "15k-25k",
+    "city": "深圳",
+    "financeStage": "B轮",
+    "industryField": "人工智能",
+    "positionAdvantage": "人工智能",
+    "companyLabelList": "节日礼物, 带薪年假, 年度旅游, 开放务实",
+    "district": "福田区",
+    "positionLables": "后端",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端"
   },
   {
     "company_name": "平安科技（深圳）有限公司",
     "company_name_short": "平安科技",
-    "position_name": "11217M-资深python开发（平安云）",
+    "position_name": "112145-资深容器python开发",
     "workYear": "5-10年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "18k-30k",
+    "salary": "15k-30k",
     "city": "深圳",
     "financeStage": "不需要融资",
     "industryField": "金融",
     "positionAdvantage": "五险一金,绩效奖金",
-    "companyLabelList": [
-      "六险一金",
-      "扁平化管理",
-      "丰厚年终",
-      "丰富技术交流"
-    ],
+    "companyLabelList": "六险一金, 扁平化管理, 丰厚年终, 丰富技术交流",
     "district": "南山区",
-    "positionLables": [
-      "云计算",
-      "运维",
-      "系统运维"
-    ],
-    "businessZones": [
-      "科技园",
-      "南山医院",
-      "大冲"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "运维",
-    "thirdType": [
-      "运维",
-      "系统运维"
-    ]
-  },
-  {
-    "company_name": "富途网络科技（深圳）有限公司",
-    "company_name_short": "富途",
-    "position_name": "银行业务后台开发工程师-Python",
-    "workYear": "1-3年",
-    "education": "不限",
-    "jobNature": "全职",
-    "salary": "14k-28k",
-    "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "金融",
-    "positionAdvantage": "发展空间大 核心岗位 团队技术好",
-    "companyLabelList": [
-      "年底双薪",
-      "腾讯系",
-      "互联网金融",
-      "年度体检"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": [
-      "科技园",
-      "西丽",
-      "大冲"
-    ],
+    "positionLables": "云计算, Python, 云计算, docker",
+    "businessZones": "科技园, 南山医院, 大冲",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
+    "thirdType": "Python, 云计算, docker"
   },
   {
-    "company_name": "北京国双科技有限公司",
-    "company_name_short": "Gridsum 国双",
-    "position_name": "高级Python研发工程师",
+    "company_name": "深圳市文德数慧科技开发有限责任公司",
+    "company_name_short": "文德数慧",
+    "position_name": "python开发工程师",
     "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "13k-25k",
-    "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "数据服务,企业服务",
-    "positionAdvantage": "上市公司、团队管理、发挥空间、福利优厚",
-    "companyLabelList": [
-      "节日礼物",
-      "年底双薪",
-      "带薪年假",
-      "午餐补助"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "云计算",
-      "大数据",
-      "平台",
-      "Python",
-      "后端"
-    ],
-    "businessZones": [
-      "莲花三村",
-      "莲花二村",
-      "岗厦"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "平台",
-      "Python",
-      "后端"
-    ]
-  },
-  {
-    "company_name": "上海海万信息科技股份有限公司",
-    "company_name_short": "海万科技",
-    "position_name": "Python 数据分析",
-    "workYear": "3-5年",
     "education": "大专",
     "jobNature": "全职",
-    "salary": "13k-25k",
+    "salary": "15k-20k",
     "city": "深圳",
     "financeStage": "不需要融资",
-    "industryField": "移动互联网,金融",
-    "positionAdvantage": "最先进的技,大项目,交通便利,环境好",
-    "companyLabelList": [],
-    "district": "福田区",
-    "positionLables": [
-      "大数据",
-      "金融",
-      "可视化",
-      "数据分析"
-    ],
-    "businessZones": [
-      "亮马桥",
-      "三元桥",
-      "燕莎"
-    ],
-    "firstType": "产品|需求|项目类",
-    "secondType": "数据分析",
-    "thirdType": [
-      "可视化",
-      "数据分析"
-    ]
+    "industryField": "企业服务",
+    "positionAdvantage": "公司招聘岗位比较多样，提升个人综合能力",
+    "companyLabelList": "年底双薪, 专项奖金, 年终分红, 带薪年假",
+    "district": "南山区",
+    "positionLables": "Python",
+    "businessZones": "西丽, 大冲, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
   },
   {
-    "company_name": "深圳市明源云客电子商务有限公司",
-    "company_name_short": "明源云",
-    "position_name": "Python高级开发工程师",
+    "company_name": "微诺（深圳）科技有限公司",
+    "company_name_short": "微诺",
+    "position_name": "Python/Golang开发工程师",
     "workYear": "3-5年",
     "education": "本科",
     "jobNature": "全职",
     "salary": "15k-30k",
     "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "电商",
-    "positionAdvantage": "精英团队,技术驱动,极客氛围,行业独角兽",
-    "companyLabelList": [
-      "高额六险一金",
-      "年底双薪",
-      "绩效奖金",
-      "N项经费"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Hadoop",
-      "PHP",
-      "Python"
-    ],
-    "businessZones": [
-      "深圳湾",
-      "科技园"
-    ],
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网",
+    "positionAdvantage": "交通便利,团队活泼,薪资优厚,腾讯系",
+    "companyLabelList": "带薪年假, 定期体检, 扁平管理",
+    "district": "宝安区",
+    "positionLables": "金融, Python, Golang",
+    "businessZones": "新安",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Hadoop",
-      "PHP",
-      "Python"
-    ]
+    "thirdType": "Python, Golang"
+  },
+  {
+    "company_name": "深圳安巽科技有限公司",
+    "company_name_short": "网络安全服务商",
+    "position_name": "python开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-20k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "信息安全",
+    "positionAdvantage": "公司前景好,发展空间大,福利待遇好",
+    "companyLabelList": "年底双薪, 绩效奖金, 带薪年假, 交通补助",
+    "district": "福田区",
+    "positionLables": "信息安全",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": ""
+  },
+  {
+    "company_name": "深圳佑驾创新科技有限公司",
+    "company_name_short": "MINIEYE",
+    "position_name": "Python 客户端开发工程师",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-30k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "硬件,其他",
+    "positionAdvantage": "创新产品,牛人密集,从0到1,项目奖金",
+    "companyLabelList": "无人驾驶, 国际标准, 车厂合作, 海归团队",
+    "district": "南山区",
+    "positionLables": "客户端",
+    "businessZones": "大冲, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "客户端"
+  },
+  {
+    "company_name": "深圳呗佬科技有限公司",
+    "company_name_short": "Bello",
+    "position_name": "python开发工程师",
+    "workYear": "3-5年",
+    "education": "不限",
+    "jobNature": "全职",
+    "salary": "15k-30k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "企业服务,人工智能",
+    "positionAdvantage": "不打卡、发展空间大",
+    "companyLabelList": "",
+    "district": "南山区",
+    "positionLables": "后端",
+    "businessZones": "南油, 科技园",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端"
   },
   {
     "company_name": "腾讯科技（深圳）有限公司",
@@ -2128,64 +1191,133 @@
     "financeStage": "上市公司",
     "industryField": "社交",
     "positionAdvantage": "发展前景",
-    "companyLabelList": [
-      "免费班车",
-      "成长空间",
-      "年度旅游",
-      "岗位晋升"
-    ],
+    "companyLabelList": "免费班车, 成长空间, 年度旅游, 岗位晋升",
     "district": "南山区",
-    "positionLables": [
-      "移动互联网",
-      "企业服务",
-      "后端",
-      "Golang",
-      "Python",
-      "软件开发"
-    ],
-    "businessZones": [
-      "科技园",
-      "南头"
-    ],
+    "positionLables": "移动互联网, 企业服务, 后端, Golang, Python, 软件开发",
+    "businessZones": "科技园, 南头",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "后端",
-      "Golang",
-      "Python",
-      "软件开发"
-    ]
+    "thirdType": "后端, Golang, Python, 软件开发"
   },
   {
-    "company_name": "深圳市立新出行信息技术有限公司",
-    "company_name_short": "立新出行",
-    "position_name": "Python后台开发工程师",
+    "company_name": "平安科技（深圳）有限公司",
+    "company_name_short": "平安科技",
+    "position_name": "11217M-资深python开发（平安云）",
+    "workYear": "5-10年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "18k-30k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "金融",
+    "positionAdvantage": "五险一金,绩效奖金",
+    "companyLabelList": "六险一金, 扁平化管理, 丰厚年终, 丰富技术交流",
+    "district": "南山区",
+    "positionLables": "云计算, 运维, 系统运维",
+    "businessZones": "科技园, 南山医院, 大冲",
+    "firstType": "开发|测试|运维类",
+    "secondType": "运维",
+    "thirdType": "运维, 系统运维"
+  },
+  {
+    "company_name": "富途网络科技（深圳）有限公司",
+    "company_name_short": "富途",
+    "position_name": "银行业务后台开发工程师-Python",
+    "workYear": "1-3年",
+    "education": "不限",
+    "jobNature": "全职",
+    "salary": "14k-28k",
+    "city": "深圳",
+    "financeStage": "上市公司",
+    "industryField": "金融",
+    "positionAdvantage": "发展空间大 核心岗位 团队技术好",
+    "companyLabelList": "年底双薪, 腾讯系, 互联网金融, 年度体检",
+    "district": "南山区",
+    "positionLables": "Python",
+    "businessZones": "科技园, 西丽, 大冲",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "深圳松茂科技有限公司",
+    "company_name_short": "松茂科技",
+    "position_name": "初级python开发工程师",
+    "workYear": "1-3年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "7k-10k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网",
+    "positionAdvantage": "5天7小时，年终奖，境外旅游，技术分享",
+    "companyLabelList": "朝十晚六, 周末双休, 年轻团队, 扁平管理",
+    "district": "宝安区",
+    "positionLables": "PHP, Python",
+    "businessZones": "新安",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "PHP, Python"
+  },
+  {
+    "company_name": "深圳市明源云客电子商务有限公司",
+    "company_name_short": "明源云",
+    "position_name": "Python高级开发工程师",
     "workYear": "3-5年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "25k-35k",
+    "salary": "15k-30k",
     "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "电商,消费生活",
-    "positionAdvantage": "周末双休,五险一金,自助零食,领导好",
-    "companyLabelList": [
-      "年底双薪",
-      "股票期权",
-      "带薪年假",
-      "绩效奖金"
-    ],
-    "district": "宝安区",
-    "positionLables": [
-      "Python"
-    ],
-    "businessZones": [
-      "新安"
-    ],
+    "financeStage": "上市公司",
+    "industryField": "电商",
+    "positionAdvantage": "精英团队,技术驱动,极客氛围,行业独角兽",
+    "companyLabelList": "高额六险一金, 年底双薪, 绩效奖金, N项经费",
+    "district": "南山区",
+    "positionLables": "Hadoop, PHP, Python",
+    "businessZones": "深圳湾, 科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
+    "thirdType": "Hadoop, PHP, Python"
+  },
+  {
+    "company_name": "上海海万信息科技股份有限公司",
+    "company_name_short": "海万科技",
+    "position_name": "Python 数据分析",
+    "workYear": "3-5年",
+    "education": "大专",
+    "jobNature": "全职",
+    "salary": "13k-25k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,金融",
+    "positionAdvantage": "最先进的技,大项目,交通便利,环境好",
+    "companyLabelList": "",
+    "district": "福田区",
+    "positionLables": "大数据, 金融, 可视化, 数据分析",
+    "businessZones": "亮马桥, 三元桥, 燕莎",
+    "firstType": "产品|需求|项目类",
+    "secondType": "数据分析",
+    "thirdType": "可视化, 数据分析"
+  },
+  {
+    "company_name": "北京国双科技有限公司",
+    "company_name_short": "Gridsum 国双",
+    "position_name": "资深python研发工程师",
+    "workYear": "5-10年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "20k-40k",
+    "city": "深圳",
+    "financeStage": "上市公司",
+    "industryField": "数据服务,企业服务",
+    "positionAdvantage": "上市公司 发挥空间 折腾技术 牛人多",
+    "companyLabelList": "节日礼物, 年底双薪, 带薪年假, 午餐补助",
+    "district": "福田区",
+    "positionLables": "大数据, 云计算, Python",
+    "businessZones": "岗厦, 莲花三村, 莲花二村",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
   },
   {
     "company_name": "深圳华秋电子有限公司",
@@ -2199,228 +1331,73 @@
     "financeStage": "B轮",
     "industryField": "移动互联网,电商",
     "positionAdvantage": "公司背景好,福利好,实力雄厚",
-    "companyLabelList": [
-      "节日礼物",
-      "年底双薪",
-      "专项奖金",
-      "带薪年假"
-    ],
+    "companyLabelList": "节日礼物, 年底双薪, 专项奖金, 带薪年假",
     "district": "福田区",
-    "positionLables": [
-      "爬虫",
-      "爬虫工程师",
-      "网络爬虫",
-      "Python"
-    ],
-    "businessZones": [
-      "上梅林"
-    ],
+    "positionLables": "爬虫, 爬虫工程师, 网络爬虫, Python",
+    "businessZones": "上梅林",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "爬虫",
-      "爬虫工程师",
-      "网络爬虫",
-      "Python"
-    ]
+    "thirdType": "爬虫, 爬虫工程师, 网络爬虫, Python"
   },
   {
-    "company_name": "上海海知智能科技有限公司",
-    "company_name_short": "海知智能",
-    "position_name": "Python大数据工程师",
+    "company_name": "深圳市立新出行信息技术有限公司",
+    "company_name_short": "立新出行",
+    "position_name": "Python后台开发工程师",
     "workYear": "3-5年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "18k-30k",
+    "salary": "25k-35k",
     "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "移动互联网,数据服务",
-    "positionAdvantage": "创新前沿，发展空间大，技术牛人，",
-    "companyLabelList": [
-      "晋升空间大",
-      "硅谷管理风格",
-      "创新前沿",
-      "尊重个性"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "Hadoop",
-      "Scala"
-    ],
-    "businessZones": null,
+    "financeStage": "不需要融资",
+    "industryField": "电商,消费生活",
+    "positionAdvantage": "周末双休,五险一金,自助零食,领导好",
+    "companyLabelList": "年底双薪, 股票期权, 带薪年假, 绩效奖金",
+    "district": "宝安区",
+    "positionLables": "Python",
+    "businessZones": "新安",
     "firstType": "开发|测试|运维类",
-    "secondType": "数据开发",
-    "thirdType": [
-      "Hadoop",
-      "Scala"
-    ]
+    "secondType": "后端开发",
+    "thirdType": "Python"
   },
   {
-    "company_name": "深圳市木槿科技有限公司",
-    "company_name_short": "木槿科技",
-    "position_name": "python数据分析",
+    "company_name": "深圳市微课科技有限公司",
+    "company_name_short": "荔枝微课",
+    "position_name": "python运维开发工程师",
     "workYear": "1-3年",
     "education": "本科",
     "jobNature": "全职",
-    "salary": "10k-18k",
+    "salary": "10k-15k",
     "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "数据服务",
-    "positionAdvantage": "AI金融科技、发展前景大、股东方实力雄厚",
-    "companyLabelList": [
-      "扁平管理",
-      "技能培训",
-      "岗位晋升",
-      "Bat团队"
-    ],
+    "financeStage": "A轮",
+    "industryField": "移动互联网,教育",
+    "positionAdvantage": "双休,年轻团队,学习机会多",
+    "companyLabelList": "美女多, 弹性工作, 扁平管理, 午餐补助",
     "district": "南山区",
-    "positionLables": [
-      "大数据",
-      "互联网金融",
-      "Python"
-    ],
-    "businessZones": [
-      "科技园",
-      "大冲"
-    ],
+    "positionLables": "运维, 信息安全",
+    "businessZones": "深圳湾, 后海, 科技园",
     "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": [
-      "Python"
-    ]
+    "secondType": "运维",
+    "thirdType": "运维, 信息安全"
   },
   {
-    "company_name": "万科物业发展股份有限公司",
-    "company_name_short": "万科物业",
-    "position_name": "高级Python开发工程师",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "15k-30k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "房产家居",
-    "positionAdvantage": "结构扁平 五险一金 年度旅游 弹性时间",
-    "companyLabelList": [
-      "社区o2o",
-      "原始股权",
-      "弹性工作制",
-      "互联网+"
-    ],
-    "district": "福田区",
-    "positionLables": [
-      "电商",
-      "社交"
-    ],
-    "businessZones": [
-      "上梅林",
-      "莲花北村",
-      "笔架山"
-    ],
-    "firstType": "开发|测试|运维类",
-    "secondType": "后端开发",
-    "thirdType": []
-  },
-  {
-    "company_name": "深圳虾皮信息科技有限公司",
-    "company_name_short": "Shopee",
-    "position_name": "Python数据工程师",
+    "company_name": "翼果（深圳）科技有限公司",
+    "company_name_short": "翼果科技",
+    "position_name": "Python后台工程师(科技园)",
     "workYear": "1-3年",
     "education": "本科",
     "jobNature": "全职",
     "salary": "10k-20k",
     "city": "深圳",
-    "financeStage": "上市公司",
-    "industryField": "电商",
-    "positionAdvantage": "新加坡公司，东南亚电商，大牛多",
-    "companyLabelList": [
-      "外企氛围",
-      "蓝海市场",
-      "大牛多多",
-      "15天年假"
-    ],
+    "financeStage": "天使轮",
+    "industryField": "大数据,互联网,移动互联网",
+    "positionAdvantage": "技术氛围浓厚,成长期,机会多",
+    "companyLabelList": "绩效奖金, 岗位晋升, 扁平管理, 领导好",
     "district": "南山区",
-    "positionLables": [
-      "电商",
-      "ETL",
-      "MySQL",
-      "数据库开发",
-      "数据分析"
-    ],
-    "businessZones": null,
-    "firstType": "开发|测试|运维类",
-    "secondType": "数据开发",
-    "thirdType": [
-      "ETL",
-      "MySQL",
-      "数据库开发",
-      "数据分析"
-    ]
-  },
-  {
-    "company_name": "深圳腾语科技有限公司",
-    "company_name_short": "贝尔编程 BellCode",
-    "position_name": "python课程设计主管",
-    "workYear": "3-5年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "13k-25k",
-    "city": "深圳",
-    "financeStage": "A轮",
-    "industryField": "教育,移动互联网",
-    "positionAdvantage": "福利好,五险一金",
-    "companyLabelList": [
-      "专项奖金",
-      "带薪年假",
-      "绩效奖金",
-      "定期体检"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "教育",
-      "移动互联网"
-    ],
-    "businessZones": null,
-    "firstType": "教育|培训",
-    "secondType": "培训",
-    "thirdType": []
-  },
-  {
-    "company_name": "深圳淘乐网络科技有限公司",
-    "company_name_short": "淘乐网络",
-    "position_name": "核心客户端开发工程师【Python】",
-    "workYear": "1-3年",
-    "education": "本科",
-    "jobNature": "全职",
-    "salary": "10k-20k",
-    "city": "深圳",
-    "financeStage": "不需要融资",
-    "industryField": "游戏",
-    "positionAdvantage": "包食宿,待遇优,弹性上下班",
-    "companyLabelList": [
-      "骨干配车",
-      "免费三餐",
-      "五险一金",
-      "年度旅游"
-    ],
-    "district": "南山区",
-    "positionLables": [
-      "游戏",
-      "移动互联网",
-      "C++",
-      "Python"
-    ],
-    "businessZones": [
-      "科技园",
-      "南山医院",
-      "南头"
-    ],
+    "positionLables": "Java, Python",
+    "businessZones": "大冲, 科技园",
     "firstType": "开发|测试|运维类",
     "secondType": "后端开发",
-    "thirdType": [
-      "C++",
-      "Python"
-    ]
+    "thirdType": "Java, Python"
   },
   {
     "company_name": "深圳点猫科技有限公司",
@@ -2434,19 +1411,92 @@
     "financeStage": "B轮",
     "industryField": "移动互联网,教育",
     "positionAdvantage": "风口行业，发展空间大，福利诱人",
-    "companyLabelList": [
-      "专项奖金",
-      "股票期权",
-      "岗位晋升",
-      "年度旅游"
-    ],
+    "companyLabelList": "专项奖金, 股票期权, 岗位晋升, 年度旅游",
     "district": "宝安区",
-    "positionLables": [
-      "教育"
-    ],
+    "positionLables": "教育",
     "businessZones": null,
     "firstType": "教育|培训",
     "secondType": "培训",
-    "thirdType": []
+    "thirdType": ""
+  },
+  {
+    "company_name": "深圳市木槿科技有限公司",
+    "company_name_short": "木槿科技",
+    "position_name": "python数据分析",
+    "workYear": "1-3年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-18k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "数据服务",
+    "positionAdvantage": "AI金融科技、发展前景大、股东方实力雄厚",
+    "companyLabelList": "扁平管理, 技能培训, 岗位晋升, Bat团队",
+    "district": "南山区",
+    "positionLables": "大数据, 互联网金融, Python",
+    "businessZones": "科技园, 大冲",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "Python"
+  },
+  {
+    "company_name": "深圳链条科技有限公司",
+    "company_name_short": "链条科技",
+    "position_name": "Python后端",
+    "workYear": "1-3年",
+    "education": "不限",
+    "jobNature": "全职",
+    "salary": "7k-12k",
+    "city": "深圳",
+    "financeStage": "不需要融资",
+    "industryField": "移动互联网,广告营销",
+    "positionAdvantage": "创业公司,五险一金,期权股权,加班补贴",
+    "companyLabelList": "绩效奖金, 股票期权, 五险一金, 加班补贴",
+    "district": "南山区",
+    "positionLables": "工具软件, 后端, 服务器端, 客户端, 平台",
+    "businessZones": "科技园, 西丽, 大冲",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "后端, 服务器端, 客户端, 平台"
+  },
+  {
+    "company_name": "深圳市悦动天下科技有限公司",
+    "company_name_short": "悦动",
+    "position_name": "python后台开发工程师",
+    "workYear": "3-5年",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "15k-25k",
+    "city": "深圳",
+    "financeStage": "C轮",
+    "industryField": "移动互联网,社交",
+    "positionAdvantage": "C轮独角兽；亿级用户量；每日下午茶",
+    "companyLabelList": "带薪年假, 绩效奖金, 弹性工作, 年度旅游",
+    "district": "南山区",
+    "positionLables": "服务器端, 后端, Python",
+    "businessZones": "科技园, 大冲",
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": "服务器端, 后端, Python"
+  },
+  {
+    "company_name": "深圳市一面网络技术有限公司",
+    "company_name_short": "一面数据",
+    "position_name": "Python爬虫工程师",
+    "workYear": "不限",
+    "education": "本科",
+    "jobNature": "全职",
+    "salary": "10k-18k",
+    "city": "深圳",
+    "financeStage": "A轮",
+    "industryField": "移动互联网,数据服务",
+    "positionAdvantage": "大数据人工智能；名校系大牛；技术氛围浓",
+    "companyLabelList": "技能培训, 海归精英团队, Geek分享, 绩效奖金",
+    "district": "南山区",
+    "positionLables": "大数据",
+    "businessZones": null,
+    "firstType": "开发|测试|运维类",
+    "secondType": "后端开发",
+    "thirdType": ""
   }
 ]
