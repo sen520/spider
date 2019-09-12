@@ -63,4 +63,6 @@
     
 - [x] boss boss直聘
 
+- [ ] spider_test 爬虫练习(http://glidedsky.com)
+
 - `pip.ini` pip 更改清华大学安装源 放在`C:\Users\Administrator\pip`下
