@@ -18,7 +18,7 @@ def login(email, pwd):
 
 
 def get_proxy():
-    url = 'http://api.ip.data5u.com/dynamic/get.html?order=c77bcb61b876d0efe082d749462f13a7&json=1&sep=3'
+    url = ''
     res = requests.get(url)
     data = json.loads(res.text)
     ip = data['data'][0]['ip'] + ':' + str(data['data'][0]['port'])
@@ -63,8 +63,8 @@ def ip_spider(session):
 
 
 if __name__ == '__main__':
-    email = '358974225@qq.com'
-    pwd = '2310787706zs'
+    email = ''
+    pwd = ''
     session = login(email, pwd)
     # css_spider(session)
     ip_spider(session)
