@@ -247,7 +247,7 @@ class T_Spider(object):
 
 
 if __name__ == '__main__':
-    phone = '18895637794'
-    pwd = '2310787706zs'
+    phone = ''
+    pwd = ''
     s = T_Spider(phone, pwd)
     s.run()
