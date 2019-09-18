@@ -38,7 +38,6 @@ def ip_spider(session):
                         ip_list.append(ip)
                         break
                     time.sleep(3)
-                print(ip)
                 proxy = {
                     'http': ip,
                     'https': ip
@@ -56,10 +55,9 @@ def ip_spider(session):
                 print(e)
 
 
-
 if __name__ == '__main__':
-    email = '358974225@qq.com'
-    pwd = '2310787706zs'
+    email = ''
+    pwd = ''
     session = login(email, pwd)
     # css_spider(session)
     ip_spider(session)

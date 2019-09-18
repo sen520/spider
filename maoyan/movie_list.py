@@ -8,8 +8,8 @@ from fontTools.ttLib import TTFont
 host = 'https://maoyan.com'
 
 
-def get_movie_info(url):
-    res = requests.get(url)
+def get_movie_info(url, headers):
+    res = requests.get(url, headers=headers)
     html = etree.HTML(res.text)
 
     #  电影名
@@ -20,6 +20,7 @@ def get_movie_info(url):
 
     # 简介：分类，区域，时长，上映日期
     movie_abstract = '\n'.join(html.xpath('//div[@class="movie-brief-container"]/ul/li/text()'))
+    print(movie_abstract.split('\n\n')[0])
     tag = movie_abstract.split('\n\n')[0].split(',')
     abstract = movie_abstract.split('\n\n')[1].strip()
     # 用户评分
@@ -91,12 +92,13 @@ def get_num(font_str):
     :return: 解析出的数字
     """
     baseFonts = TTFont('./fonts/font.woff')
-    base_fonts = ['uniF27B', 'uniE296', 'uniE732', 'uniEFDF',
-                  'uniF3AB', 'uniF8EC', 'uniEF37', 'uniE7EE', 'uniE5C5', 'uniEBD9']
+    base_fonts = ['uniF130', 'uniF357', 'uniE595', 'uniF88B',
+                  'uniE05E', 'uniEA85', 'uniEF99', 'uniF6B4', 'uniF732', 'uniEE60']
     base_nums = ['9', '5', '1', '8', '2', '0', '3', '4', '7', '6']
     online_fonts = TTFont('./fonts/data.woff')
     uni_list = online_fonts.getGlyphNames()[1:-1]
     temp = {}
+    online_fonts.saveXML('a.xml')
     for i in range(10):
         onlineGlyph = online_fonts['glyf'][uni_list[i]]
         for j in range(10):
@@ -121,12 +123,28 @@ def get_font(url):
 
 
 if __name__ == '__main__':
-    res = requests.get('https://maoyan.com/board')
+    headers = {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "zh-CN,zh;q=0.9",
+        "Cache-Control": "no-cache",
+        "Connection": "keep-alive",
+        "Cookie": "_lxsdk_cuid=16c83c24021c8-004738fc119f25-396a4507-1fa400-16c83c24021c8; uuid_n_v=v1; uuid=B28F9740D9DF11E98CE175A6C6B4C416EE55972FC64D4510A2F83D5F2A829843; _csrf=071e678edd5f1a19a1193275add0b106101e3d0032351f8fcb8cba6e7159e37b; _lxsdk=B28F9740D9DF11E98CE175A6C6B4C416EE55972FC64D4510A2F83D5F2A829843; __mta=146061963.1565578642053.1568789112216.1568789191408.4; _lxsdk_s=16d431d0b6f-8b5-d1-c97%7C%7C6",
+        "Host": "maoyan.com",
+        "Pragma": "no-cache",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+    }
+    res = requests.get('https://maoyan.com/board', headers=headers)
     html = etree.HTML(res.text)
     movie_hrefs = html.xpath('//p[@class="name"]/a/@href')
+    print(movie_hrefs)
     movies_list = []
     for href in movie_hrefs:
         url = host + href
-        movie_dict = get_movie_info(url)
+        movie_dict = get_movie_info(url, headers)
         movies_list.append(movie_dict)
     save_movie(movies_list, 'movie')
