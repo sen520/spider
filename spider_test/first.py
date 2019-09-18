@@ -52,8 +52,9 @@ def ip_spider(session):
                 url = 'http://glidedsky.com/level/web/crawler-ip-block-1?page=' + str(i)
                 res = session.get(url, proxies=proxy, timeout=5)
                 html = etree.HTML(res.text)
-                print(res)
                 list = html.xpath('//div[@class="row"]/div/text()')
+                if len(list) == 0:
+                    continue
                 sum_num += sum(map(lambda i: int(i.strip()), list))
                 print(sum_num)
                 break
