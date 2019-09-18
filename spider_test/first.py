@@ -3,6 +3,7 @@ from lxml import etree
 import json
 import time
 
+
 main_url = 'http://glidedsky.com/'
 session = requests.session()
 
@@ -25,13 +26,6 @@ def get_proxy():
     return ip
 
 
-def css_spider(session):
-    url = 'http://glidedsky.com/level/web/crawler-css-puzzle-1'
-    res = session.get(url)
-    html = etree.HTML(res.text)
-    html.xpath('')
-
-
 def ip_spider(session):
     sum_num = 0
     ip_list = []
@@ -49,7 +43,7 @@ def ip_spider(session):
                     'http': ip,
                     'https': ip
                 }
-                url = 'http://glidedsky.com/level/web/crawler-ip-block-1?page=' + str(i)
+                url = 'http://glidedsky.com/level/web/crawler-ip-block-2?page=' + str(i)
                 res = session.get(url, proxies=proxy, timeout=5)
                 html = etree.HTML(res.text)
                 list = html.xpath('//div[@class="row"]/div/text()')
@@ -64,8 +58,8 @@ def ip_spider(session):
 
 
 if __name__ == '__main__':
-    email = ''
-    pwd = ''
+    email = '358974225@qq.com'
+    pwd = '2310787706zs'
     session = login(email, pwd)
     # css_spider(session)
     ip_spider(session)
