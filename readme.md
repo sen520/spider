@@ -26,7 +26,6 @@
     - [x] 抓取城市天气
     - [x] 2017合肥天气汇总
     
-    
 - [x] [知乎](https://github.com/sen520/spider/tree/master/zhihu) 
     - js动态加载
     - 登录cookie
@@ -60,9 +59,9 @@
     - cookie 登录，采用post方法直接访问接口
 
 - [x] wzry 王者荣耀信息
-    
+  
 - [x] boss boss直聘
 
-- [ ] spider_test 爬虫练习(http://glidedsky.com)
+- [ ] spider_test 爬虫练习(http://glidedsky.com/login)
 
 - `pip.ini` pip 更改清华大学安装源 放在`C:\Users\Administrator\pip`下
