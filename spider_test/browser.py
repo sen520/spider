@@ -37,4 +37,4 @@ if __name__ == '__main__':
     password = ''
     driver = webdriver.Chrome()
     login(email, password, driver)
-    js_spider(driver)
+    # js_spider(driver)

@@ -2,7 +2,9 @@ import requests
 from lxml import etree
 import json
 import time
-
+import re
+import base64
+from fontTools.ttLib import TTFont
 
 main_url = 'http://glidedsky.com/'
 session = requests.session()
@@ -55,9 +57,41 @@ def ip_spider(session):
                 print(e)
 
 
+def font_spider(session):
+    sum_num = 0
+    for i in range(1, 1001):
+        print(i)
+        res = session.get('http://glidedsky.com/level/web/crawler-font-puzzle-1?page=' + str(i))
+        font_base = re.search('src: url\(data:font;charset=utf-8;base64,(.*)\) format\("truetype"\);', res.text)
+        font_b = base64.b64decode(font_base[1])
+        with open('./data/test.ttf', 'wb') as f:
+            f.write(font_b)
+        font = TTFont(io.BytesIO(font_b))
+        bestcmap = font['cmap'].getBestCmap()
+        newmap = dict()
+        for key in bestcmap.keys():
+            value = bestcmap[key]
+            key = hex(key)
+            newmap[key] = value
+        print(newmap)
+        response_ = res.text
+        for key, value in newmap.items():
+            key_ = key.replace('0x', '&#x') + ';'
+            if key_ in response_:
+                response_ = response_.replace(key_, str(value))
+        html = etree.HTML(res.text)
+        num_list = html.xpath('//div[@class="row"]/div/text()')
+        num_list = [int(num.strip()) for num in num_list]
+        print(num_list)
+        for num in num_list:
+            sum_num += num
+    print(sum_num)
+
+
+
 if __name__ == '__main__':
     email = ''
     pwd = ''
     session = login(email, pwd)
-    # css_spider(session)
-    ip_spider(session)
+    # ip_spider(session)
+    font_spider(session)
